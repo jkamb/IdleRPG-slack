@@ -1,0 +1,10 @@
+1000 Spiders
+2000 Goblins
+3000 Liches
+4000 Skeletons
+5000 Ghosts
+6000 Shadows
+7000 Trolls
+8000 Cyclops
+9000 Mutants
+10000 Phoenixes
