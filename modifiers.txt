@@ -1,0 +1,533 @@
+[08/07/15 02:45:16] svag 8[0/2] has been set upon by some Spiders 8[2/3] and lost! 0 days, 00:00:10 is added to svag's clock.
+[08/08/15 14:01:31] svag 8[0/2] has been set upon by some Spiders 8[0/2] and won! 0 days, 00:00:29 is removed from svag's clock.
+[08/08/15 15:51:22] svag 8[0/2] has been set upon by some Spiders 8[1/2] and lost! 0 days, 00:00:19 is added to svag's clock.
+[08/09/15 13:52:15] svag 8[0/2] has been set upon by some Spiders 8[0/1] and won! 0 days, 00:00:28 is removed from svag's clock.
+[08/10/15 02:01:21] svag 8[1/2] has been set upon by some Spiders 8[0/2] and won! 0 days, 00:00:25 is removed from svag's clock.
+[08/10/15 15:38:31] svag 8[1/2] has been set upon by some Spiders 8[0/1] and won! 0 days, 00:00:22 is removed from svag's clock.
+[08/11/15 07:47:47] svag 8[0/2] has been set upon by some Spiders 8[0/1] and won! 0 days, 00:00:19 is removed from svag's clock.
+[08/15/15 05:31:41] svag 8[1/4] has been set upon by some Spiders 8[2/3] and lost! 0 days, 00:01:12 is added to svag's clock.
+[08/15/15 08:42:18] svag 8[1/2] has attacked a Roach 8[367/500] and lost! 0 days, 00:00:50 is added to svag's clock. svag gets 1 XP. svag has 91 life left
+[08/15/15 09:05:34] svag 8[0/1] has been set upon by some Spiders 8[0/1] and won! 6 days, 03:24:14 is removed from svag's clock.
+[08/15/15 09:51:55] svag 8[0/1] has been set upon by some Spiders 8[0/1] and won! 9 days, 21:38:30 is removed from svag's clock.
+[08/15/15 11:25:33] svag 11[5413/6660] tried to slay a Blue_Dragon 11[947/5000] and won! 0 days, 21:01:41 is removed from svag's clock. svag gets 2 XP. Each item gains 2 points.
+[08/15/15 11:25:47] svag 8[4142/6680] has attacked a Phoenix 8[13773/21000] and lost! 1 day, 17:00:18 is added to svag's clock. svag gets 1 XP. svag has 99 sanity left
+[08/15/15 11:54:52] svag 8[3382/6680] has been set upon by some Liches 8[339/2553] and won! 2 days, 12:14:36 is removed from svag's clock.
+[08/15/15 12:25:18] svag 8[229/6680] has been set upon by some Trolls 8[2595/6707] and lost! 2 days, 23:59:17 is added to svag's clock.
+[08/15/15 19:21:03] svag 8[2072/6680] has been set upon by some Cyclops 8[4670/7199] and lost! 3 days, 06:20:01 is added to svag's clock.
+[08/15/15 20:21:03] svag 8[5308/6680] has been set upon by some Trolls 8[268/6553] and won! 4 days, 17:43:30 is removed from svag's clock.
+[08/15/15 21:21:03] svag 8[6266/6680] has been set upon by some Shadows 8[4102/5744] and won! 4 days, 03:57:28 is removed from svag's clock.
+[08/15/15 22:21:03] svag 8[3791/6680] has been set upon by some Trolls 8[4172/6710] and lost! 2 days, 17:52:56 is added to svag's clock.
+[08/21/15 23:32:18] svag 8[3114/6680] has been set upon by some Liches 8[2523/2844] and won! 2 days, 07:43:44 is removed from svag's clock.
+[08/22/15 00:32:18] svag 8[5449/6680] has been set upon by some Trolls 8[2217/6381] and won! 3 days, 16:43:40 is removed from svag's clock.
+[08/22/15 02:48:31] svag 8[6610/6680] has been set upon by some Shadows 8[2232/5747] and won! 3 days, 05:49:49 is removed from svag's clock.
+[08/22/15 03:48:31] svag 8[4638/6680] has been set upon by some Cyclops 8[2405/7080] and won! 2 days, 20:22:14 is removed from svag's clock.
+[08/22/15 04:48:29] svag 8[6530/6680] has been set upon by some Cyclops 8[7035/7126] and lost! 1 day, 21:02:05 is added to svag's clock.
+[08/22/15 05:48:30] svag 8[4882/6680] has been set upon by some Monster 8[3302/11236] and won! 4 days, 23:46:21 is removed from svag's clock.
+[08/22/15 06:48:30] svag 8[4115/6680] has been set upon by some Shadows 8[2691/5835] and won! 2 days, 02:50:15 is removed from svag's clock.
+[08/22/15 07:48:30] svag 8[1469/6680] has been set upon by some Cyclops 8[5101/7336] and lost! 1 day, 09:27:46 is added to svag's clock.
+[08/22/15 08:48:29] svag 8[1790/6680] has been set upon by some Liches 8[281/2386] and won! 1 day, 04:17:56 is removed from svag's clock.
+[08/22/15 09:48:29] svag 8[6459/6680] has been set upon by some Monster 8[7312/11322] and lost! 0 days, 18:44:55 is added to svag's clock.
+[08/22/15 10:48:30] svag 8[5945/6680] has been set upon by some Liches 8[1897/2910] and won! 1 day, 03:29:26 is removed from svag's clock.
+[08/22/15 11:48:30] svag 8[3366/6680] has been set upon by some Cyclops 8[1386/7648] and won! 1 day, 19:42:28 is removed from svag's clock.
+[08/22/15 12:48:30] svag 8[5903/6680] has been set upon by some Trolls 8[2187/6814] and won! 1 day, 14:20:34 is removed from svag's clock.
+[08/22/15 13:48:30] svag 8[6596/6680] has been set upon by some Trolls 8[2253/6287] and won! 1 day, 09:37:18 is removed from svag's clock.
+[08/22/15 14:48:30] svag 8[1743/6680] has been set upon by some Skeletons 8[2228/3133] and lost! 1 day, 00:33:21 is added to svag's clock.
+[08/22/15 15:48:30] svag 8[4224/6680] has been set upon by some Trolls 8[4584/6130] and lost! 1 day, 00:13:13 is added to svag's clock.
+[08/22/15 16:48:30] svag 8[907/6680] has been set upon by some Trolls 8[910/6970] and lost! 1 day, 02:18:36 is added to svag's clock.
+[08/22/15 17:48:29] svag 8[1640/6680] has been set upon by some Liches 8[72/2942] and won! 0 days, 22:14:06 is removed from svag's clock.
+[08/22/15 18:48:30] svag 8[6357/6680] has been set upon by some Liches 8[787/2458] and won! 0 days, 20:36:31 is removed from svag's clock.
+[08/22/15 19:48:30] svag 8[3066/6680] has been set upon by some Monster 8[2788/10143] and won! 2 days, 12:00:59 is removed from svag's clock.
+[08/22/15 20:48:30] svag 8[1354/6680] has been set upon by some Trolls 8[3304/6122] and lost! 0 days, 19:03:38 is added to svag's clock.
+[08/22/15 21:48:30] svag 8[4493/6680] has been set upon by some Trolls 8[2786/6375] and won! 1 day, 03:34:53 is removed from svag's clock.
+[08/22/15 22:48:30] svag 8[1277/6680] has been set upon by some Trolls 8[5041/6068] and lost! 0 days, 18:06:49 is added to svag's clock.
+[08/22/15 23:48:30] svag 8[2870/6680] has been set upon by some Liches 8[1676/2539] and won! 0 days, 15:17:11 is removed from svag's clock.
+[08/23/15 00:48:30] svag 8[4209/6680] has been set upon by some Cyclops 8[4789/7087] and lost! 0 days, 18:11:17 is added to svag's clock.
+[08/23/15 01:48:31] svag 8[2038/6680] has been set upon by some Cyclops 8[1658/7441] and won! 1 day, 02:18:49 is removed from svag's clock.
+[08/23/15 02:48:29] svag 8[3245/6680] has been set upon by some Trolls 8[3716/6488] and lost! 0 days, 17:16:37 is added to svag's clock.
+[08/23/15 03:48:29] svag 8[4444/6680] has been set upon by some Monster 8[6985/10625] and lost! 0 days, 10:24:43 is added to svag's clock.
+[08/23/15 04:48:29] svag 8[4092/6680] has been set upon by some Trolls 8[5095/6860] and lost! 0 days, 19:35:20 is added to svag's clock.
+[08/23/15 05:48:29] svag 8[1429/6680] has been set upon by some Cyclops 8[2553/7092] and lost! 0 days, 21:15:43 is added to svag's clock.
+[08/23/15 06:48:29] svag 8[4722/6680] has been set upon by some Cyclops 8[6044/7520] and lost! 0 days, 23:05:08 is added to svag's clock.
+[08/23/15 07:48:29] svag 8[3875/6680] has been set upon by some Trolls 8[1796/6215] and won! 1 day, 09:25:51 is removed from svag's clock.
+[08/23/15 08:48:29] svag 8[96/6680] has been set upon by some Cyclops 8[3538/7253] and lost! 0 days, 21:58:28 is added to svag's clock.
+[08/23/15 09:48:29] svag 8[6325/6680] has been set upon by some Liches 8[1451/2933] and won! 0 days, 18:33:34 is removed from svag's clock.
+[08/23/15 10:48:30] svag 8[99/6680] has been set upon by some Trolls 8[2006/6642] and lost! 0 days, 22:06:06 is added to svag's clock.
+[08/23/15 11:48:30] svag 8[6175/6680] has been set upon by some Liches 8[1127/2547] and won! 0 days, 18:40:02 is removed from svag's clock.
+[08/23/15 12:48:30] svag 8[1415/6680] has been set upon by some Skeletons 8[239/3014] and won! 0 days, 17:17:26 is removed from svag's clock.
+[08/23/15 13:48:30] svag 8[306/6680] has been set upon by some Cyclops 8[6924/7538] and lost! 0 days, 20:35:05 is added to svag's clock.
+[08/23/15 14:48:30] svag 8[5608/6680] has been set upon by some Trolls 8[6579/6982] and lost! 0 days, 22:20:50 is added to svag's clock.
+[08/23/15 15:48:30] svag 8[4226/6680] has been set upon by some Trolls 8[1086/6615] and won! 1 day, 08:21:29 is removed from svag's clock.
+[08/23/15 16:48:30] svag 8[5439/6680] has been set upon by some Trolls 8[1995/6648] and won! 1 day, 04:21:19 is removed from svag's clock.
+[08/23/15 17:48:30] svag 8[3765/6680] has been set upon by some Trolls 8[4636/6513] and lost! 0 days, 18:37:28 is added to svag's clock.
+[08/23/15 18:48:30] svag 8[1396/6680] has been set upon by some Cyclops 8[6279/7671] and lost! 0 days, 20:12:38 is added to svag's clock.
+[08/23/15 19:48:30] svag 8[1162/6680] has been set upon by some Trolls 8[5442/6194] and lost! 0 days, 21:56:22 is added to svag's clock.
+[08/23/15 20:48:30] svag 8[6357/6680] has been set upon by some Trolls 8[3627/6191] and won! 1 day, 07:45:56 is removed from svag's clock.
+[08/23/15 21:48:30] svag 8[125/6680] has been set upon by some Skeletons 8[1848/3323] and lost! 0 days, 23:11:41 is added to svag's clock.
+[08/23/15 22:48:30] svag 8[3296/6680] has been set upon by some Cyclops 8[6039/7322] and lost! 0 days, 22:52:22 is added to svag's clock.
+[08/23/15 23:48:30] svag 8[3791/6680] has been set upon by some Skeletons 8[2664/3309] and won! 0 days, 19:19:15 is removed from svag's clock.
+[08/24/15 00:48:30] svag 8[2437/6680] has been set upon by some Cyclops 8[1909/7518] and won! 1 day, 06:41:00 is removed from svag's clock.
+[08/24/15 01:48:30] svag 8[3371/6680] has been set upon by some Trolls 8[1506/6582] and won! 1 day, 02:52:52 is removed from svag's clock.
+[08/24/15 02:48:30] svag 8[4720/6680] has been set upon by some Cyclops 8[4175/7657] and won! 0 days, 23:32:08 is removed from svag's clock.
+[08/24/15 03:48:30] svag 8[1197/6680] has been set upon by some Monster 8[5020/10081] and lost! 0 days, 08:34:47 is added to svag's clock.
+[08/24/15 04:48:30] svag 8[3264/6680] has been set upon by some Cyclops 8[7449/7640] and lost! 0 days, 16:07:32 is added to svag's clock.
+[08/24/15 05:48:30] svag 8[2735/6680] has been set upon by some Trolls 8[441/6703] and won! 0 days, 23:18:57 is removed from svag's clock.
+[08/24/15 06:48:30] svag 8[3864/6680] has been set upon by some Shadows 8[277/5862] and won! 0 days, 20:23:53 is removed from svag's clock.
+[08/24/15 07:48:30] svag 8[1138/6680] has been set upon by some Monster 8[4647/10370] and lost! 0 days, 07:25:45 is added to svag's clock.
+[08/24/15 08:48:30] svag 8[4830/6680] has been set upon by some Trolls 8[6646/6896] and lost! 0 days, 13:57:04 is added to svag's clock.
+[08/24/15 09:48:30] svag 8[5858/6680] has been set upon by some Shadows 8[1327/5883] and won! 0 days, 20:09:21 is removed from svag's clock.
+[08/24/15 10:48:30] svag 8[4700/6680] has been set upon by some Monster 8[7540/10377] and lost! 0 days, 07:20:25 is added to svag's clock.
+[08/24/15 11:48:30] svag 8[6649/6680] has been set upon by some Cyclops 8[871/7532] and won! 0 days, 18:22:41 is removed from svag's clock.
+[08/24/15 12:48:30] svag 8[1240/6680] has been set upon by some Cyclops 8[748/7540] and won! 0 days, 16:03:09 is removed from svag's clock.
+[08/24/15 13:48:30] svag 8[4644/6680] has been set upon by some Liches 8[370/2311] and won! 0 days, 08:10:13 is removed from svag's clock.
+[08/24/15 14:48:29] svag 8[5771/6680] has been set upon by some Liches 8[2014/2301] and won! 0 days, 07:31:42 is removed from svag's clock.
+[08/24/15 15:48:29] svag 8[606/6680] has been set upon by some Trolls 8[636/6539] and lost! 0 days, 08:54:43 is added to svag's clock.
+[08/24/15 16:48:30] svag 8[994/6680] has been set upon by some Liches 8[720/2734] and won! 0 days, 07:29:07 is removed from svag's clock.
+[08/24/15 17:48:30] svag 8[4000/6680] has been set upon by some Trolls 8[2711/6362] and won! 0 days, 11:48:49 is removed from svag's clock.
+[08/24/15 18:48:30] svag 8[1689/6680] has been set upon by some Monster 8[10883/11219] and lost! 0 days, 04:16:54 is added to svag's clock.
+[08/24/15 19:48:30] svag 8[6493/6680] has been set upon by some Trolls 8[2565/6919] and won! 0 days, 10:40:11 is removed from svag's clock.
+[08/24/15 20:48:30] svag 8[2147/6680] has been set upon by some Shadows 8[3729/5882] and lost! 0 days, 06:57:07 is added to svag's clock.
+[08/24/15 21:48:30] svag 8[236/6680] has been set upon by some Monster 8[6430/10148] and lost! 0 days, 04:09:35 is added to svag's clock.
+[08/24/15 22:48:29] svag 8[6447/6680] has been set upon by some Monster 8[8667/10329] and lost! 0 days, 04:19:04 is added to svag's clock.
+[08/24/15 23:48:29] svag 8[3598/6680] has been set upon by some Shadows 8[5501/5957] and lost! 0 days, 08:04:15 is added to svag's clock.
+[08/25/15 00:48:30] svag 8[6259/6680] has been set upon by some Trolls 8[3190/6821] and won! 0 days, 11:36:34 is removed from svag's clock.
+[08/25/15 01:48:30] svag 8[1253/6680] has been set upon by some Cyclops 8[5570/7570] and lost! 0 days, 07:34:20 is added to svag's clock.
+[08/25/15 02:48:30] svag 8[5617/6680] has been set upon by some Trolls 8[4325/6704] and won! 0 days, 10:53:06 is removed from svag's clock.
+[08/25/15 03:48:29] svag 8[265/6680] has been set upon by some Skeletons 8[906/3048] and lost! 0 days, 07:52:56 is added to svag's clock.
+[08/25/15 04:48:29] svag 8[4847/6680] has been set upon by some Liches 8[18/2033] and won! 0 days, 05:59:58 is removed from svag's clock.
+[08/25/15 05:48:29] svag 8[4298/6680] has been set upon by some Trolls 8[2422/6593] and won! 0 days, 09:26:41 is removed from svag's clock.
+[08/25/15 06:48:30] svag 8[4881/6680] has been set upon by some Shadows 8[3682/5881] and won! 0 days, 08:11:29 is removed from svag's clock.
+[08/25/15 07:48:30] svag 8[3344/6680] has been set upon by some Liches 8[2264/2418] and won! 0 days, 04:08:05 is removed from svag's clock.
+[08/25/15 08:48:29] svag 8[1414/6680] has been set upon by some Liches 8[2532/2788] and lost! 0 days, 05:23:37 is added to svag's clock.
+[08/25/15 09:48:29] svag 9[1832/6680] has challenged spoeket 9[0/0] in combat and won! 0 days, 04:04:59 is removed from svag's clock. svag gets 3 XP and spoeket gets 1 XP. spoeket has 99 sanity left.
+[08/25/15 10:48:29] svag 9[630/6680] has challenged spoeket 9[6/8] in combat and won! 0 days, 03:43:38 is removed from svag's clock. svag gets 4 XP and spoeket gets 1 XP. spoeket has 97 sanity left.
+[08/25/15 10:48:29] svag has dealt spoeket a Critical Strike! 0 days, 00:02:11 is added to spoeket's clock.
+[08/25/15 11:48:29] svag 9[4706/6680] has challenged spoeket 9[2/8] in combat and won! 0 days, 03:23:47 is removed from svag's clock. svag gets 4 XP and spoeket gets 2 XP. spoeket has 96 sanity left.
+[08/25/15 12:48:30] svag 9[3352/6680] has challenged spoeket 9[5/13] in combat and won! 0 days, 03:05:19 is removed from svag's clock. svag gets 2 XP and spoeket gets 2 XP. spoeket has 92 sanity left.
+[08/25/15 13:48:30] svag 9[950/6680] has challenged spoeket 9[9/23] in combat and won! 0 days, 02:48:08 is removed from svag's clock. svag gets 1 XP and spoeket gets 2 XP. spoeket has 89 sanity left.
+[08/25/15 14:48:30] svag 9[1870/6680] has challenged spoeket 9[10/23] in combat and won! 0 days, 02:32:10 is removed from svag's clock. svag gets 2 XP and spoeket gets 2 XP. spoeket has 88 sanity left.
+[08/25/15 15:48:30] svag 9[5692/6680] has challenged spoeket 9[24/29] in combat and won! 0 days, 02:17:19 is removed from svag's clock. svag gets 4 XP and spoeket gets 2 XP. spoeket has 87 sanity left.
+[08/25/15 16:04:18] spoeket 9[26/28] has challenged svag 9[5383/6680] in combat and lost! 0 days, 00:05:30 is added to spoeket's clock. spoeket gets 1 XP and svag gets 2 XP. spoeket has 83 sanity left.
+[08/25/15 16:48:30] svag 9[2915/6680] has challenged spoeket 9[6/27] in combat and won! 0 days, 02:03:30 is removed from svag's clock. svag gets 2 XP and spoeket gets 2 XP. spoeket has 79 sanity left.
+[08/25/15 17:18:40] spoeket 9[8/26] has challenged svag 9[1041/6680] in combat and lost! 0 days, 00:06:23 is added to spoeket's clock. spoeket gets 1 XP and svag gets 3 XP. spoeket has 77 sanity left.
+[08/25/15 17:48:30] svag 9[6551/6680] has challenged spoeket 9[20/25] in combat and won! 0 days, 01:50:40 is removed from svag's clock. svag gets 2 XP and spoeket gets 2 XP. spoeket has 75 sanity left.
+[08/25/15 18:44:54] spoeket 9[5/24] has challenged svag 9[5832/6680] in combat and lost! 0 days, 00:07:24 is added to spoeket's clock. spoeket gets 2 XP and svag gets 4 XP. spoeket has 73 sanity left.
+[08/25/15 18:48:30] svag 9[1270/6680] has challenged spoeket 9[9/24] in combat and won! 0 days, 01:38:43 is removed from svag's clock. svag gets 2 XP and spoeket gets 1 XP. spoeket has 72 sanity left.
+[08/25/15 18:50:14] svag 11[4696/6680] tried to slay a Platinum_Dragon 11[104916/150000] and lost! 0 days, 00:49:07 is added to svag's clock. svag reaches next level in 0 days, 22:38:57, and must wait 0 days, 12:00:00 to slay again. svag gets 1 XP. Each item loses 12 points. svag has 92 sanity left.
+[08/25/15 19:48:30] svag 9[3014/6560] has challenged spoeket 9[3/23] in combat and won! 0 days, 01:31:03 is removed from svag's clock. svag gets 4 XP and spoeket gets 2 XP. spoeket has 68 sanity left.
+[08/25/15 20:48:30] svag 9[6541/6560] has challenged spoeket 9[6/22] in combat and won! 0 days, 01:20:28 is removed from svag's clock. svag gets 1 XP and spoeket gets 1 XP. spoeket has 65 sanity left.
+[08/25/15 21:48:30] svag 9[5489/6560] has challenged spoeket 9[20/21] in combat and won! 0 days, 01:10:38 is removed from svag's clock. svag gets 3 XP and spoeket gets 2 XP. spoeket has 63 sanity left.
+[08/25/15 21:53:25] spoeket found a one-time-use spell of quickness !!! This moves them 0 days, 00:01:42 closer towards level 18.
+[08/25/15 22:08:48] svag has won the 14Neutral Battle! svag received 250 gold, 5 gems and 10 XP.
+[08/25/15 22:48:30] svag 9[3352/6560] has challenged spoeket 9[23/26] in combat and won! 0 days, 01:01:29 is removed from svag's clock. svag gets 3 XP and spoeket gets 2 XP. spoeket has 60 sanity left.
+[08/25/15 23:48:30] svag 9[2071/6560] has challenged spoeket 9[11/25] in combat and won! 0 days, 00:52:59 is removed from svag's clock. svag gets 3 XP and spoeket gets 1 XP. spoeket has 58 sanity left.
+[08/26/15 00:48:30] svag 9[4611/6560] has challenged spoeket 9[23/24] in combat and won! 0 days, 00:45:05 is removed from svag's clock. svag gets 2 XP and spoeket gets 2 XP. spoeket has 57 sanity left.
+[08/26/15 01:48:30] svag 9[3168/6560] has challenged spoeket 9[0/24] in combat and won! 0 days, 00:37:43 is removed from svag's clock. svag gets 1 XP and spoeket gets 1 XP. spoeket has 53 sanity left.
+[08/26/15 02:48:30] svag 9[5332/6560] has challenged spoeket 9[1/22] in combat and won! 0 days, 00:30:53 is removed from svag's clock. svag gets 3 XP and spoeket gets 1 XP. spoeket has 49 sanity left.
+[08/26/15 03:48:30] svag 9[957/6560] has challenged spoeket 9[15/21] in combat and won! 0 days, 00:24:31 is removed from svag's clock. svag gets 2 XP and spoeket gets 1 XP. spoeket has 47 sanity left.
+[08/26/15 04:48:30] svag 9[3283/6560] has challenged spoeket 9[8/20] in combat and won! 0 days, 00:18:36 is removed from svag's clock. svag gets 3 XP and spoeket gets 2 XP. spoeket has 45 sanity left.
+[08/26/15 05:48:30] svag 9[441/6560] has challenged spoeket 9[15/24] in combat and won! 0 days, 00:13:06 is removed from svag's clock. svag gets 4 XP and spoeket gets 2 XP. spoeket has 41 sanity left.
+[08/26/15 06:48:30] svag 9[812/6560] has challenged spoeket 9[2/22] in combat and won! 0 days, 00:07:59 is removed from svag's clock. svag gets 3 XP and spoeket gets 2 XP. spoeket has 40 sanity left.
+[08/26/15 07:48:30] svag 9[4443/6560] has challenged spoeket 9[0/21] in combat and won! 0 days, 00:03:14 is removed from svag's clock. svag gets 3 XP and spoeket gets 1 XP. spoeket has 38 sanity left.
+[08/26/15 08:31:27] svag 9[1346/6624] has challenged spoeket 9[3/20] in combat and won! 3 days, 15:39:56 is removed from svag's clock. svag gets 3 XP and spoeket gets 1 XP. spoeket has 37 sanity left.
+[08/26/15 08:48:30] svag 9[6453/6624] has challenged spoeket 9[1/19] in combat and won! 3 days, 09:30:33 is removed from svag's clock. svag gets 2 XP and spoeket gets 2 XP. spoeket has 33 sanity left.
+[08/26/15 09:48:30] svag 9[5540/6624] has challenged spoeket 9[1/17] in combat and won! 3 days, 03:44:00 is removed from svag's clock. svag gets 2 XP and spoeket gets 1 XP. spoeket has 31 sanity left.
+[08/26/15 10:48:30] svag 9[4918/6624] has challenged spoeket 9[9/16] in combat and won! 2 days, 22:21:44 is removed from svag's clock. svag gets 3 XP and spoeket gets 2 XP. spoeket has 27 sanity left.
+[08/26/15 11:37:36] svag called a taxi.. !!! This moves them 4 days, 16:04:45 closer towards level 63.
+[08/26/15 11:48:30] svag 9[3143/6624] has challenged spoeket 9[11/14] in combat and won! 2 days, 09:31:16 is removed from svag's clock. svag gets 3 XP and spoeket gets 1 XP. spoeket has 23 sanity left.
+[08/26/15 12:48:30] svag 9[1348/6624] has challenged spoeket 9[1/15] in combat and won! 2 days, 05:25:29 is removed from svag's clock. svag gets 1 XP and spoeket gets 2 XP. spoeket has 22 sanity left.
+[08/26/15 13:48:30] svag 9[166/6624] has challenged spoeket 9[13/14] in combat and won! 2 days, 01:36:54 is removed from svag's clock. svag gets 3 XP and spoeket gets 2 XP. spoeket has 19 sanity left.
+[08/26/15 14:48:30] svag 9[3730/6624] has challenged spoeket 9[11/12] in combat and won! 1 day, 22:04:19 is removed from svag's clock. svag gets 1 XP and spoeket gets 1 XP. spoeket has 17 sanity left.
+[08/26/15 15:48:30] svag 9[1939/6624] has challenged spoeket 9[8/11] in combat and won! 1 day, 18:46:37 is removed from svag's clock. svag gets 1 XP and spoeket gets 2 XP. spoeket has 14 sanity left.
+[08/26/15 16:48:29] svag 9[4432/6624] has challenged spoeket 9[1/9] in combat and won! 1 day, 15:42:45 is removed from svag's clock. svag gets 1 XP and spoeket gets 2 XP. spoeket has 11 sanity left.
+[08/26/15 17:48:29] svag 9[4341/6624] has challenged spoeket 9[6/7] in combat and won! 1 day, 12:51:46 is removed from svag's clock. svag gets 4 XP and spoeket gets 1 XP. spoeket has 10 sanity left.
+[08/26/15 18:51:32] spoeket 9[4548/6660] has challenged svag 9[3771/6624] in combat and won! 0 days, 00:27:28 is removed from spoeket's clock. spoeket gets 3 XP and svag gets 2 XP. svag has 96 sanity left.
+[08/26/15 19:51:33] spoeket 9[2452/6660] has challenged svag 9[428/6359] in combat and won! 0 days, 00:14:21 is removed from spoeket's clock. spoeket gets 2 XP and svag gets 2 XP. svag has 95 sanity left.
+[08/26/15 20:51:33] svag 9[1372/6292] has challenged spoeket 9[2552/6660] in combat and lost! 1 day, 19:48:15 is added to svag's clock. svag gets 1 XP and spoeket gets 4 XP. svag has 92 sanity left.
+[08/26/15 21:12:55] spoeket 9[2833/6727] has challenged svag 9[2741/6094] in combat and won! 8 days, 10:15:18 is removed from spoeket's clock. spoeket gets 3 XP and svag gets 2 XP. svag has 90 sanity left.
+[08/26/15 21:51:33] svag 9[489/5961] has challenged spoeket 9[332/6727] in combat and won! 3 days, 12:43:23 is removed from svag's clock. svag gets 2 XP and spoeket gets 2 XP. spoeket has 97 sanity left.
+[08/26/15 22:51:33] spoeket 9[761/6525] has challenged svag 9[2804/5961] in combat and lost! 3 days, 19:33:26 is added to spoeket's clock. spoeket gets 2 XP and svag gets 4 XP. spoeket has 95 sanity left.
+[08/26/15 23:45:25] spoeket has won the 14Neutral Battle! spoeket received 250 gold, 5 gems and 10 XP.
+[08/26/15 23:51:33] spoeket 9[3631/6390] has challenged svag 9[2853/5829] in combat and won! 7 days, 17:15:13 is removed from spoeket's clock. spoeket gets 1 XP and svag gets 2 XP. svag has 84 sanity left.
+[08/27/15 00:51:33] svag 9[5448/5564] has challenged spoeket 9[4642/6390] in combat and won! 2 days, 22:41:14 is removed from svag's clock. svag gets 1 XP and spoeket gets 1 XP. spoeket has 93 sanity left.
+[08/27/15 01:51:32] svag 9[247/5564] has challenged spoeket 9[750/6256] in combat and lost! 1 day, 09:18:35 is added to svag's clock. svag gets 1 XP and spoeket gets 3 XP. svag has 82 sanity left.
+[08/31/15 14:42:03] svag 9[2347/5431] has challenged spoeket 9[779/6256] in combat and won! 2 days, 16:23:13 is removed from svag's clock. svag gets 3 XP and spoeket gets 1 XP. spoeket has 90 sanity left.
+[08/31/15 15:42:03] svag 9[2664/5431] has challenged spoeket 9[11/6054] in combat and won! 2 days, 05:55:30 is removed from svag's clock. svag gets 1 XP and spoeket gets 2 XP. spoeket has 88 sanity left.
+[08/31/15 15:45:42] svag has won the 14Neutral Battle! svag received 250 gold, 5 gems and 10 XP.
+[08/31/15 16:42:03] spoeket 9[2753/5785] has challenged svag 9[1904/5431] in combat and won! 6 days, 12:42:56 is removed from spoeket's clock. spoeket gets 3 XP and svag gets 2 XP. svag has 81 sanity left.
+[08/31/15 17:42:03] svag 9[743/5365] has challenged spoeket 9[2289/5785] in combat and lost! 1 day, 01:17:58 is added to svag's clock. svag gets 2 XP and spoeket gets 1 XP. svag has 77 sanity left.
+[08/31/15 18:42:03] spoeket 9[1859/5785] has challenged svag 9[1401/5100] in combat and won! 5 days, 12:54:30 is removed from spoeket's clock. spoeket gets 1 XP and svag gets 2 XP. svag has 73 sanity left.
+[08/31/15 19:42:03] svag 9[1282/4835] has challenged spoeket 9[3013/5785] in combat and lost! 1 day, 03:23:47 is added to svag's clock. svag gets 1 XP and spoeket gets 1 XP. svag has 69 sanity left.
+[08/31/15 20:42:03] svag 9[1572/4570] has challenged spoeket 9[3123/5785] in combat and lost! 1 day, 05:46:20 is added to svag's clock. svag gets 2 XP and spoeket gets 2 XP. svag has 68 sanity left.
+[08/31/15 21:42:03] spoeket 9[5142/5785] has challenged svag 9[3029/4504] in combat and won! 4 days, 16:31:19 is removed from spoeket's clock. spoeket gets 2 XP and svag gets 2 XP. svag has 65 sanity left.
+[08/31/15 22:42:03] svag 9[702/4305] has challenged spoeket 9[3004/5785] in combat and lost! 1 day, 08:16:18 is added to svag's clock. svag gets 2 XP and spoeket gets 3 XP. svag has 63 sanity left.
+[08/31/15 23:42:03] svag 9[1257/4173] has challenged spoeket 9[3057/5785] in combat and lost! 1 day, 11:05:10 is added to svag's clock. svag gets 2 XP and spoeket gets 3 XP. svag has 59 sanity left.
+[09/01/15 00:42:03] svag 9[2551/3908] has challenged spoeket 9[2785/5785] in combat and lost! 1 day, 14:09:14 is added to svag's clock. svag gets 2 XP and spoeket gets 4 XP. svag has 57 sanity left.
+[09/01/15 01:42:03] svag 9[3643/3775] has challenged spoeket 9[4672/5785] in combat and lost! 1 day, 17:29:51 is added to svag's clock. svag gets 1 XP and spoeket gets 2 XP. svag has 53 sanity left.
+[09/01/15 02:01:41] svag 8[802/3510] has been set upon by some Skeletons 8[835/3789] and lost! 1 day, 21:12:11 is added to svag's clock.
+[09/01/15 02:40:29] The blacksmith added an MP3 player to spoeket's helm! spoeket's helm gains 10% effectiveness.
+[09/01/15 02:42:03] svag 9[2820/3510] has challenged spoeket 9[5376/5841] in combat and lost! 2 days, 01:12:38 is added to svag's clock. svag gets 2 XP and spoeket gets 2 XP. svag has 49 sanity left.
+[09/30/15 00:08:08] Spiritualis 9[0/0] has come upon MoonMoon 9[0/0] and taken them in combat! 1 day, 12:26:55 is removed from Spiritualis's clock. Spiritualis gets 3 XP and MoonMoon gets 1 XP. MoonMoon has 0 sanity left.
+[09/30/15 00:20:46] Ghost sharpened the edge of their weapon! Ghost's weapon gains 10% effectiveness.
+[09/30/15 00:24:56] Izam 9[0/0] has come upon diis 9[0/0] and taken them in combat! 0 days, 20:37:53 is removed from Izam's clock. Izam gets 3 XP and diis gets 1 XP. diis has 0 sanity left.
+[09/30/15 00:30:14] MoonMoon 9[0/0] has come upon Sathiras 9[0/0] and taken them in combat! 4 days, 21:56:37 is removed from MoonMoon's clock. MoonMoon gets 2 XP and Sathiras gets 2 XP. Sathiras has 0 sanity left.
+[09/30/15 01:38:33] Ghost was caught stealing, however, they still get 5 XP for trying.
+[09/30/15 01:58:08] diis 9[0/0] has challenged Spiritualis 9[173/388] in combat and lost! 0 days, 05:53:00 is added to diis's clock. diis gets 1 XP and Spiritualis gets 3 XP. diis has 0 sanity left.
+[09/30/15 02:58:08] diis 9[0/0] has challenged Spiritualis 9[46/388] in combat and lost! 0 days, 06:17:43 is added to diis's clock. diis gets 1 XP and Spiritualis gets 1 XP. diis has 0 sanity left.
+[09/30/15 03:37:15] Krakel has won the 5Top Players Battle! As a reward, Krakel gets 500 gold, 10 XP and 5 points added to each item!
+[09/30/15 03:58:08] Izam 9[1666/4375] has challenged Krakel 9[3894/17757] in combat and lost! 0 days, 11:24:22 is added to Izam's clock. Izam gets 1 XP and Krakel gets 1 XP. Izam has 65 sanity left.
+[09/30/15 04:52:00] Spiritualis 9[54/358] has come upon MoonMoon 9[0/0] and taken them in combat! 1 day, 07:20:45 is removed from Spiritualis's clock. Spiritualis gets 4 XP and MoonMoon gets 1 XP. MoonMoon has 0 sanity left.
+[09/30/15 04:52:41] Spiritualis 9[110/358] has come upon MoonMoon 9[0/0] and taken them in combat! 1 day, 02:57:27 is removed from Spiritualis's clock. Spiritualis gets 4 XP and MoonMoon gets 2 XP. MoonMoon has 0 sanity left.
+[09/30/15 04:58:08] Izam 9[1203/4182] has challenged Svag 9[21031/25236] in combat and lost! 0 days, 12:25:58 is added to Izam's clock. Izam gets 1 XP and Svag gets 4 XP. Izam has 61 sanity left.
+[09/30/15 05:58:08] putin.are.rusia 9[65/432] has challenged Sathiras 9[0/0] in combat and won! 0 days, 03:21:58 is removed from putin.are.rusia's clock. putin.are.rusia gets 2 XP and Sathiras gets 2 XP. Sathiras has 0 sanity left.
+[09/30/15 06:11:10] Svag left their weapon out in the rain to rust! Svag's weapon loses 10% effectiveness.
+[09/30/15 06:51:25] Izam has won the 13Work Battle!
+[09/30/15 06:51:25] Izam received 2 days of wages (1440 gold) and 1 day, 10:37:56 is removed from TTL!
+[09/30/15 06:58:08] diis 9[0/0] has challenged Svag 9[8563/24747] in combat and lost! 0 days, 08:39:38 is added to diis's clock. diis gets 2 XP and Svag gets 3 XP. diis has 0 sanity left.
+[09/30/15 07:51:26] putin.are.rusia has won the 5Top Players Battle! As a reward, putin.are.rusia gets 500 gold, 10 XP and 5 points added to each item!
+[09/30/15 07:58:08] Krakel 9[555/17757] has challenged diis 9[0/0] in combat and won! 2 days, 12:14:21 is removed from Krakel's clock. Krakel gets 1 XP and diis gets 1 XP. diis has 0 sanity left.
+[09/30/15 08:46:03] Izam 9[1031/3925] has come upon Svag 9[6441/24747] and been defeated in combat! 0 days, 10:26:05 is added to Izam's clock. Izam gets 2 XP and Svag gets 3 XP. Izam has 57 sanity left.
+[09/30/15 08:58:08] diis 9[0/0] has challenged Svag 9[8622/24747] in combat and lost! 0 days, 09:26:24 is added to diis's clock. diis gets 2 XP and Svag gets 3 XP. diis has 0 sanity left.
+[09/30/15 09:58:08] Ghost 9[6892/13880] has challenged Qoob 9[5035/10738] in combat and won! 0 days, 15:43:43 is removed from Ghost's clock. Ghost gets 2 XP and Qoob gets 2 XP. Qoob has 99 sanity left.
+[09/30/15 10:26:49] Spiritualis, diis, Qoob, Ghost, Svag, putin.are.rusia, Izam, and Krakel have blessed the realm by completing their quest! 25% of their burden is eliminated and they have a chance to find an ITEM each.
+[09/30/15 10:26:49] diis 8[0/0] has been set upon by some Spiders 8[0/1] and won! 0 days, 13:43:10 is removed from diis's clock.
+[09/30/15 10:26:49] Izam 8[1672/3667] has been set upon by some Skeletons 8[3212/3637] and lost! 0 days, 11:22:26 is added to Izam's clock.
+[09/30/15 10:26:49] MoonMoon 8[0/0] has been set upon by some Spiders 8[0/1] and won! 2 days, 07:15:07 is removed from MoonMoon's clock.
+[09/30/15 10:26:49] Svag 8[19450/24747] has been set upon by some Monster 8[20445/27161] and lost! 0 days, 04:16:17 is added to Svag's clock.
+[09/30/15 10:26:49] Ghost 8[6851/13880] has been set upon by some Monster 8[5614/14989] and won! 0 days, 07:58:43 is removed from Ghost's clock.
+[09/30/15 10:26:49] Ghost 8[8003/13880] has been set upon by some Monster 8[2536/21466] and won! 0 days, 12:52:20 is removed from Ghost's clock.
+[09/30/15 10:26:49] Krakel 8[10086/17757] has been set upon by some Monster 8[3297/19487] and won! 1 day, 20:24:17 is removed from Krakel's clock.
+[09/30/15 10:26:49] Qoob 8[444/10715] has been set upon by some Monster 8[2060/11044] and lost! 0 days, 02:35:54 is added to Qoob's clock.
+[09/30/15 10:35:40] Ghost 8[8693/13880] has been set upon by some Monster 8[6894/13377] and won! 0 days, 05:27:32 is removed from Ghost's clock.
+[09/30/15 10:58:07] putin.are.rusia 9[253/443] has challenged Izam 9[3222/3667] in combat and lost! 0 days, 01:21:06 is added to putin.are.rusia's clock. putin.are.rusia gets 1 XP and Izam gets 3 XP. putin.are.rusia has 51 sanity left.
+[09/30/15 11:58:08] Sathiras 9[0/0] has challenged Izam 9[525/3667] in combat and lost! 0 days, 01:01:25 is added to Sathiras's clock. Sathiras gets 2 XP and Izam gets 3 XP. Sathiras has 0 sanity left.
+[09/30/15 12:53:09] MoonMoon likes Solitare and thats lame !!! This terrible calamity has slowed them 3 days, 16:05:15 from level 59.
+[09/30/15 12:58:08] Svag 9[17816/24867] has challenged Izam 9[629/3667] in combat and won! 0 days, 05:26:29 is removed from Svag's clock. Svag gets 4 XP and Izam gets 1 XP. Izam has 55 sanity left.
+[09/30/15 13:58:08] Izam 9[1996/3539] has challenged Qoob 9[8311/10715] in combat and lost! 0 days, 08:15:54 is added to Izam's clock. Izam gets 2 XP and Qoob gets 3 XP. Izam has 52 sanity left.
+[09/30/15 14:55:20] Svag has won the 5Top Players Battle! As a reward, Svag gets 500 gold, 10 XP and 5 points added to each item!
+[09/30/15 14:58:08] Qoob 9[9677/10715] has challenged Spiritualis 9[262/305] in combat and won! 0 days, 03:46:34 is removed from Qoob's clock. Qoob gets 1 XP and Spiritualis gets 1 XP. Spiritualis has 17 sanity left.
+[09/30/15 15:30:55] Sathiras 8[0/0] has been set upon by some Spiders 8[0/1] and won! 0 days, 00:58:02 is removed from Sathiras's clock.
+[09/30/15 15:33:03] Krakel 8[11348/17757] has been set upon by some Monster 8[4782/29454] and won! 2 days, 05:43:47 is removed from Krakel's clock.
+[09/30/15 15:58:08] Izam 9[1712/3346] has challenged putin.are.rusia 9[357/419] in combat and won! 0 days, 13:23:21 is removed from Izam's clock. Izam gets 3 XP and putin.are.rusia gets 1 XP. putin.are.rusia has 48 sanity left.
+[09/30/15 16:06:35] Krakel, Ghost, and MoonMoon 8[30733/34525] have hunted down a bunch of Monster 8[30842/57411] but they beat them badly! 0 days, 06:54:11 is added to their clocks. They all get 2 XP.
+[09/30/15 16:08:22] Svag 11[17016/24917] tried to slay a Black_Dragon 11[15377/35000] and won! 0 days, 00:41:29 is removed from Svag's clock. Svag gets 6 XP. Each item gains 4 points.
+[09/30/15 16:08:31] Svag 8[8790/24959] has attacked a Phoenix 8[9680/21000] and lost! 0 days, 01:20:54 is added to Svag's clock. Svag gets 2 XP. Svag has 94 sanity left
+[09/30/15 16:09:05] Qoob 9[5858/10715] has come upon MoonMoon 9[0/0] and taken them in combat! 0 days, 03:52:37 is removed from Qoob's clock. Qoob gets 1 XP and MoonMoon gets 1 XP. MoonMoon has 0 sanity left.
+[09/30/15 16:58:08] Svag 9[10580/24959] has challenged Ghost 9[9616/13880] in combat and won! 0 days, 04:23:56 is removed from Svag's clock. Svag gets 3 XP and Ghost gets 2 XP. Ghost has 98 sanity left.
+[09/30/15 17:58:08] MoonMoon 9[0/0] has challenged Krakel 9[4648/17757] in combat and lost! 3 days, 02:36:53 is added to MoonMoon's clock. MoonMoon gets 1 XP and Krakel gets 3 XP. MoonMoon has 0 sanity left.
+[09/30/15 18:58:07] Krakel 9[9142/17757] has challenged putin.are.rusia 9[115/394] in combat and won! 0 days, 23:41:17 is removed from Krakel's clock. Krakel gets 4 XP and putin.are.rusia gets 2 XP. putin.are.rusia has 45 sanity left.
+[09/30/15 19:31:09] Ghost has won the 13Work Battle!
+[09/30/15 19:31:09] Ghost received 2 days of wages (1440 gold) and 0 days, 15:57:51 is removed from TTL!
+[09/30/15 19:58:08] diis 9[0/0] has challenged putin.are.rusia 9[30/369] in combat and lost! 0 days, 05:16:55 is added to diis's clock. diis gets 2 XP and putin.are.rusia gets 3 XP. diis has 0 sanity left.
+[09/30/15 20:58:08] Ghost 9[1450/13602] has challenged Svag 9[6849/24959] in combat and lost! 0 days, 01:51:13 is added to Ghost's clock. Ghost gets 1 XP and Svag gets 4 XP. Ghost has 95 sanity left.
+[09/30/15 21:44:39] diis, Spiritualis, and Krakel 8[3935/25206] have hunted down a bunch of Monster 8[37020/39202] but they beat them badly! 0 days, 16:08:52 is added to their clocks. They all get 2 XP.
+[09/30/15 21:58:08] MoonMoon 9[0/0] has challenged Ghost 9[11436/13186] in combat and lost! 3 days, 09:19:48 is added to MoonMoon's clock. MoonMoon gets 2 XP and Ghost gets 3 XP. MoonMoon has 0 sanity left.
+[09/30/15 22:58:08] Svag 9[6379/24959] has challenged Izam 9[2562/3346] in combat and won! 0 days, 02:33:50 is removed from Svag's clock. Svag gets 3 XP and Izam gets 2 XP. Izam has 50 sanity left.
+[09/30/15 23:28:38] The Hand of God carried Qoob 0 days, 06:11:32 toward level 62.
+[09/30/15 23:58:07] MoonMoon 9[0/0] has challenged Spiritualis 9[110/259] in combat and lost! 2 days, 20:56:59 is added to MoonMoon's clock. MoonMoon gets 1 XP and Spiritualis gets 4 XP. MoonMoon has 0 sanity left.
+[10/01/15 15:37:34] Svag 11[36382/50418] tried to slay a Black_Dragon 11[8620/35000] and won! 0 days, 00:20:16 is removed from Svag's clock. Svag gets 4 XP. Each item gains 4 points.
+[10/01/15 16:37:03] Svag 9[19484/25131] has challenged Krakel 9[14064/17757] in combat and won! 0 days, 02:04:22 is removed from Svag's clock. Svag gets 1 XP and Krakel gets 2 XP. Krakel has 94 sanity left.
+[10/01/15 18:06:52] Krakel 9[7403/17032] has challenged Svag 9[3273/25131] in combat and won! 1 day, 06:22:39 is removed from Krakel's clock. Krakel gets 3 XP and Svag gets 2 XP. Svag has 98% of their Sanity remaining.
+[10/01/15 18:48:25] Svag has won the 3Rogue Battle! As a reward, manual fights are reset to 0 for their current level and the time for attack and slay are also reset. Good luck Svag!
+[10/01/15 19:06:53] Krakel 9[16591/16670] has challenged Svag 9[4884/24628] in combat and won! 1 day, 01:31:02 is removed from Krakel's clock. Krakel gets 2 XP and Svag gets 2 XP. Svag has 96% of their Sanity remaining.
+[10/01/15 20:06:52] Krakel 9[14769/16670] has challenged Ghost 9[8368/13186] in combat and won! 0 days, 21:26:04 is removed from Krakel's clock. Krakel gets 3 XP and Ghost gets 1 XP. Ghost has 92% of their Sanity remaining.
+[10/01/15 20:36:27] Ghost has won the 13Work Battle!
+[10/01/15 20:36:27] Ghost received 2 days of wages (1440 gold) and 0 days, 02:45:00 is removed from TTL!
+[10/01/15 21:39:14] Krakel found a pair of Nikes !!! This moves them 0 days, 05:37:35 closer towards level 69.
+[10/01/15 22:02:39] Svag 9[1992/24125] has challenged Ghost 9[3816/12769] in combat and lost! 0 days, 00:34:16 is added to Svag's clock. Svag gets 2 XP and Ghost gets 1 XP. Svag has 93% of their Sanity remaining.
+[10/01/15 23:02:39] Ghost 9[10980/12769] has challenged Krakel 9[6528/16308] in combat and won! 0 days, 01:35:52 is removed from Ghost's clock. Ghost gets 1 XP and Krakel gets 1 XP. Krakel has 89% of their Sanity remaining.
+[10/02/15 00:02:38] Svag 9[6305/23371] has challenged Ghost 9[7017/12769] in combat and lost! 0 days, 00:26:33 is added to Svag's clock. Svag gets 2 XP and Ghost gets 4 XP. Svag has 89% of their Sanity remaining.
+[10/02/15 01:02:39] Svag 9[12806/22366] has challenged Ghost 9[3887/12769] in combat and won! 0 days, 00:41:51 is removed from Svag's clock. Svag gets 4 XP and Ghost gets 2 XP. Ghost has 91% of their Sanity remaining.
+[10/02/15 02:02:39] Ghost 9[1660/12630] has challenged Svag 9[18564/22366] in combat and lost! 0 days, 00:25:55 is added to Ghost's clock. Ghost gets 2 XP and Svag gets 3 XP. Ghost has 90% of their Sanity remaining.
+[10/02/15 03:02:38] Svag 9[9470/22366] has challenged Krakel 9[12804/16126] in combat and lost! 0 days, 00:08:58 is added to Svag's clock. Svag gets 1 XP and Krakel gets 4 XP. Svag has 86% of their Sanity remaining.
+[11/08/15 01:01:31] Svag 9[18760/21612] has challenged Krakel 9[9626/16126] in combat and won! 0 days, 00:09:38 is removed from Svag's clock. Svag gets 1 XP and Krakel gets 2 XP. Krakel has 88% of their Sanity remaining.
+[11/08/15 01:32:04] Svag has won the 5Top Players Battle! As a reward, Svag gets 500 gold, 10 XP and 5 points added to each item!
+[11/08/15 01:48:32] Svag 9[6758/21656] has challenged Ghost 9[6443/12492] in combat and won! 9 days, 07:25:07 is removed from Svag's clock. Svag gets 2 XP and Ghost gets 1 XP. Ghost has 89% of their Sanity remaining.
+[11/08/15 02:01:31] Krakel 9[8710/15583] has challenged Svag 9[15578/21656] in combat and lost! 0 days, 09:37:17 is added to Krakel's clock. Krakel gets 2 XP and Svag gets 2 XP. Krakel has 85% of their Sanity remaining.
+[11/08/15 03:01:31] Krakel 9[3723/15402] has challenged Svag 9[5228/21656] in combat and lost! 0 days, 10:29:14 is added to Krakel's clock. Krakel gets 2 XP and Svag gets 4 XP. Krakel has 84% of their Sanity remaining.
+[11/08/15 03:41:55] Ghost has won the 14Evil Battle! Ghost gets a chance to steal!
+[11/08/15 03:41:55] Ghost stole 756 gold from Svag!
+[11/08/15 04:01:30] Krakel 9[13220/14858] has challenged Ghost 9[8615/12353] in combat and won! 0 days, 20:19:19 is removed from Krakel's clock. Krakel gets 4 XP and Ghost gets 1 XP. Ghost has 87% of their Sanity remaining.
+[11/08/15 04:14:31] Ghost 9[676/12075] has challenged Svag 9[4487/21656] in combat and lost! 5 days, 01:21:10 is added to Ghost's clock. Ghost gets 2 XP and Svag gets 2 XP. Ghost has 86% of their Sanity remaining.
+[11/08/15 04:49:55] Krakel has won the 5Top Players Battle! As a reward, Krakel gets 500 gold, 10 XP and 5 points added to each item!
+[11/08/15 05:01:30] Krakel 9[6784/14901] has challenged Svag 9[21647/21656] in combat and lost! 0 days, 09:36:08 is added to Krakel's clock. Krakel gets 1 XP and Svag gets 4 XP. Krakel has 79% of their Sanity remaining.
+[11/08/15 06:01:31] Svag 9[16094/21656] has challenged Krakel 9[6579/14356] in combat and won! 8 days, 06:41:03 is removed from Svag's clock. Svag gets 1 XP and Krakel gets 1 XP. Krakel has 75% of their Sanity remaining.
+[11/08/15 07:01:30] Ghost 9[11786/11936] has challenged Krakel 9[1938/13629] in combat and won! 10 days, 09:22:45 is removed from Ghost's clock. Ghost gets 3 XP and Krakel gets 2 XP. Krakel has 71% of their Sanity remaining.
+[11/08/15 08:01:30] Svag 9[4971/21656] has challenged Ghost 9[1378/11936] in combat and won! 6 days, 10:53:15 is removed from Svag's clock. Svag gets 3 XP and Ghost gets 2 XP. Ghost has 83% of their Sanity remaining.
+[11/08/15 09:01:30] Ghost 9[5020/11520] has challenged Krakel 9[9421/12902] in combat and lost! 4 days, 13:24:00 is added to Ghost's clock. Ghost gets 2 XP and Krakel gets 3 XP. Ghost has 80% of their Sanity remaining.
+[11/08/15 10:01:31] Ghost 9[7426/11104] has challenged Krakel 9[4452/12902] in combat and won! 9 days, 09:04:21 is removed from Ghost's clock. Ghost gets 3 XP and Krakel gets 2 XP. Krakel has 69% of their Sanity remaining.
+[11/08/15 11:01:31] Krakel 9[7263/12539] has challenged Svag 9[1292/21656] in combat and won! 0 days, 19:46:11 is removed from Krakel's clock. Krakel gets 3 XP and Svag gets 2 XP. Svag has 83% of their Sanity remaining.
+[11/08/15 12:01:31] Ghost 9[2719/11104] has challenged Svag 9[9846/20901] in combat and lost! 4 days, 02:43:10 is added to Ghost's clock. Ghost gets 2 XP and Svag gets 3 XP. Ghost has 78% of their Sanity remaining.
+[11/08/15 13:01:31] Ghost 9[7164/10826] has challenged Svag 9[2650/20901] in combat and won! 8 days, 11:04:57 is removed from Ghost's clock. Ghost gets 3 XP and Svag gets 1 XP. Svag has 82% of their Sanity remaining.
+[11/08/15 14:01:31] Ghost 9[1669/10826] has challenged Krakel 9[1835/12539] in combat and lost! 3 days, 17:08:49 is added to Ghost's clock. Ghost gets 1 XP and Krakel gets 1 XP. Ghost has 74% of their Sanity remaining.
+[11/08/15 15:01:30] Ghost 9[4597/10271] has challenged Krakel 9[7510/12539] in combat and lost! 4 days, 01:04:48 is added to Ghost's clock. Ghost gets 2 XP and Krakel gets 4 XP. Ghost has 71% of their Sanity remaining.
+[11/08/15 16:01:31] Ghost 9[4437/9854] has challenged Krakel 9[8493/12539] in combat and lost! 4 days, 09:43:38 is added to Ghost's clock. Ghost gets 2 XP and Krakel gets 1 XP. Ghost has 68% of their Sanity remaining.
+[11/08/15 16:32:49] Ghost was caught stealing, however, they still get 5 XP for trying.
+[11/08/15 17:01:30] Ghost 9[7383/9438] has challenged Svag 9[12426/20649] in combat and lost! 4 days, 19:09:10 is added to Ghost's clock. Ghost gets 1 XP and Svag gets 1 XP. Ghost has 64% of their Sanity remaining.
+[11/08/15 18:01:30] Svag 9[17743/20649] has challenged Ghost 9[6008/8883] in combat and won! 5 days, 08:30:20 is removed from Svag's clock. Svag gets 2 XP and Ghost gets 2 XP. Ghost has 60% of their Sanity remaining.
+[11/08/15 19:01:31] Svag 9[15565/20649] has challenged Krakel 9[5079/12539] in combat and won! 4 days, 18:31:16 is removed from Svag's clock. Svag gets 1 XP and Krakel gets 1 XP. Krakel has 66% of their Sanity remaining.
+[11/08/15 20:01:30] Krakel 9[2842/11994] has challenged Ghost 9[3027/8328] in combat and lost! 0 days, 08:41:13 is added to Krakel's clock. Krakel gets 1 XP and Ghost gets 3 XP. Krakel has 62% of their Sanity remaining.
+[11/08/15 21:01:30] Krakel 9[4894/11267] has challenged Ghost 9[4313/8328] in combat and won! 0 days, 16:50:01 is removed from Krakel's clock. Krakel gets 3 XP and Ghost gets 2 XP. Ghost has 57% of their Sanity remaining.
+[11/08/15 22:01:31] Ghost 9[834/7911] has challenged Svag 9[3521/20649] in combat and lost! 5 days, 05:03:59 is added to Ghost's clock. Ghost gets 1 XP and Svag gets 1 XP. Ghost has 56% of their Sanity remaining.
+[11/08/15 23:01:31] Svag 9[5571/20649] has challenged Ghost 9[5115/7772] in combat and won! 3 days, 16:49:16 is removed from Svag's clock. Svag gets 3 XP and Ghost gets 2 XP. Ghost has 53% of their Sanity remaining.
+[11/09/15 00:01:30] Krakel 9[1162/11267] has challenged Svag 9[20222/20649] in combat and lost! 0 days, 07:57:14 is added to Krakel's clock. Krakel gets 1 XP and Svag gets 4 XP. Krakel has 60% of their Sanity remaining.
+[11/09/15 01:01:31] Ghost 9[293/7356] has challenged Svag 9[7881/20649] in combat and lost! 5 days, 16:03:09 is added to Ghost's clock. Ghost gets 1 XP and Svag gets 4 XP. Ghost has 52% of their Sanity remaining.
+[11/09/15 01:32:48] Svag has won the 5Top Players Battle! As a reward, Svag gets 500 gold, 10 XP and 5 points added to each item!
+[11/09/15 02:01:31] Svag 9[12969/20691] has challenged Ghost 9[6314/7217] in combat and won! 3 days, 02:07:47 is removed from Svag's clock. Svag gets 2 XP and Ghost gets 2 XP. Ghost has 49% of their Sanity remaining.
+[11/09/15 03:01:30] Ghost 9[739/6801] has challenged Svag 9[19914/20691] in combat and lost! 6 days, 04:07:02 is added to Ghost's clock. Ghost gets 1 XP and Svag gets 2 XP. Ghost has 45% of their Sanity remaining.
+[11/09/15 04:01:31] Krakel 9[8502/10903] has challenged Ghost 9[0/6246] in combat and won! 0 days, 15:24:46 is removed from Krakel's clock. Krakel gets 4 XP and Ghost gets 1 XP. Ghost has 41% of their Sanity remaining.
+[11/09/15 05:01:30] Svag 9[9921/20691] has challenged Krakel 9[9987/10903] in combat and lost! 1 day, 10:45:23 is added to Svag's clock. Svag gets 1 XP and Krakel gets 3 XP. Svag has 81% of their Sanity remaining.
+[11/09/15 05:08:38] Ghost has won the 5Top Players Battle! As a reward, Ghost gets 500 gold, 10 XP and 5 points added to each item!
+[11/09/15 06:01:30] Ghost 9[4779/5711] has challenged Krakel 9[9796/10903] in combat and lost! 6 days, 17:10:40 is added to Ghost's clock. Ghost gets 1 XP and Krakel gets 1 XP. Ghost has 37% of their Sanity remaining.
+[11/09/15 07:01:30] Ghost 9[2330/5154] has challenged Krakel 9[5233/10903] in combat and lost! 7 days, 07:35:37 is added to Ghost's clock. Ghost gets 1 XP and Krakel gets 2 XP. Ghost has 33% of their Sanity remaining.
+[11/09/15 08:01:31] Ghost 9[2593/4596] has challenged Krakel 9[7875/10903] in combat and lost! 7 days, 23:18:26 is added to Ghost's clock. Ghost gets 1 XP and Krakel gets 4 XP. Ghost has 30% of their Sanity remaining.
+[11/09/15 08:53:34] Krakel has won the 5Top Players Battle! As a reward, Krakel gets 500 gold, 10 XP and 5 points added to each item!
+[11/09/15 09:01:31] Krakel 9[10510/10933] has challenged Ghost 9[4116/4179] in combat and won! 0 days, 12:56:48 is removed from Krakel's clock. Krakel gets 4 XP and Ghost gets 2 XP. Ghost has 28% of their Sanity remaining.
+[11/09/15 09:01:31] Krakel has dealt Ghost a Critical Strike! 9 days, 15:35:39 is added to Ghost's clock.
+[11/09/15 10:01:31] Ghost 9[2186/3900] has challenged Krakel 9[8436/10933] in combat and lost! 9 days, 13:11:18 is added to Ghost's clock. Ghost gets 2 XP and Krakel gets 2 XP. Ghost has 26% of their Sanity remaining.
+[11/09/15 11:01:30] Svag 9[7745/20439] has challenged Ghost 9[1784/3621] in combat and won! 2 days, 18:23:24 is removed from Svag's clock. Svag gets 1 XP and Ghost gets 2 XP. Ghost has 25% of their Sanity remaining.
+[11/09/15 12:01:31] Ghost 9[3354/3482] has challenged Krakel 9[1596/10933] in combat and won! 19 days, 15:32:00 is removed from Ghost's clock. Ghost gets 3 XP and Krakel gets 1 XP. Krakel has 59% of their Sanity remaining.
+[11/09/15 13:01:31] Krakel 9[5847/10751] has challenged Ghost 9[657/3482] in combat and won! 0 days, 10:52:31 is removed from Krakel's clock. Krakel gets 3 XP and Ghost gets 1 XP. Ghost has 22% of their Sanity remaining.
+[11/09/15 14:01:31] Krakel 9[5736/10751] has challenged Ghost 9[1998/3064] in combat and won! 0 days, 09:08:07 is removed from Krakel's clock. Krakel gets 1 XP and Ghost gets 2 XP. Ghost has 21% of their Sanity remaining.
+[11/09/15 15:01:30] Svag 9[17051/20439] has challenged Ghost 9[718/2925] in combat and won! 2 days, 07:07:40 is removed from Svag's clock. Svag gets 3 XP and Ghost gets 1 XP. Ghost has 18% of their Sanity remaining.
+[11/09/15 16:01:30] Krakel 9[9570/10751] has challenged Ghost 9[715/2507] in combat and won! 0 days, 07:40:25 is removed from Krakel's clock. Krakel gets 2 XP and Ghost gets 1 XP. Ghost has 15% of their Sanity remaining.
+[11/09/15 17:01:31] Krakel 9[5593/10751] has challenged Svag 9[14426/20439] in combat and lost! 0 days, 03:37:33 is added to Krakel's clock. Krakel gets 2 XP and Svag gets 3 XP. Krakel has 55% of their Sanity remaining.
+[11/09/15 17:36:41] Svag 8[20086/20439] has been set upon by some Monster 8[14812/22938] and won! 1 day, 10:25:12 is removed from Svag's clock.
+[11/09/15 18:01:31] Krakel 9[3882/10022] has challenged Svag 9[9611/20439] in combat and lost! 0 days, 03:57:07 is added to Krakel's clock. Krakel gets 2 XP and Svag gets 3 XP. Krakel has 52% of their Sanity remaining.
+[11/09/15 19:01:31] Krakel 9[119/9475] has challenged Svag 9[16252/20439] in combat and lost! 0 days, 04:18:28 is added to Krakel's clock. Krakel gets 2 XP and Svag gets 2 XP. Krakel has 49% of their Sanity remaining.
+[11/09/15 19:07:53] Ghost burned his Hard Disk Drive !!! This terrible calamity has slowed them 8 days, 14:33:28 from level 67.
+[11/09/15 20:01:31] Krakel 9[4086/8929] has challenged Svag 9[5808/20439] in combat and lost! 0 days, 04:41:44 is added to Krakel's clock. Krakel gets 1 XP and Svag gets 4 XP. Krakel has 48% of their Sanity remaining.
+[11/09/15 21:01:30] Ghost 9[1618/2089] has challenged Svag 9[4176/20439] in combat and lost! 9 days, 08:58:39 is added to Ghost's clock. Ghost gets 1 XP and Svag gets 1 XP. Ghost has 12% of their Sanity remaining.
+[11/09/15 22:01:31] Ghost 9[192/1671] has challenged Krakel 9[6372/8747] in combat and lost! 10 days, 05:08:07 is added to Ghost's clock. Ghost gets 2 XP and Krakel gets 4 XP. Ghost has 8% of their Sanity remaining.
+[11/09/15 23:01:30] Krakel 9[3664/8747] has challenged Ghost 9[981/1114] in combat and won! 0 days, 09:05:56 is removed from Krakel's clock. Krakel gets 2 XP and Ghost gets 2 XP. Ghost has 8% of their Sanity remaining.
+[11/10/15 00:01:31] Ghost 9[1098/1114] has challenged Krakel 9[6533/8747] in combat and lost! 11 days, 03:01:03 is added to Ghost's clock. Ghost gets 2 XP and Krakel gets 2 XP. Ghost has 8% of their Sanity remaining.
+[11/10/15 01:01:31] Ghost 9[10616/13930] has challenged Krakel 9[7910/8747] in combat and won! 22 days, 21:35:22 is removed from Ghost's clock. Ghost gets 2 XP and Krakel gets 1 XP. Krakel has 45% of their Sanity remaining.
+[11/10/15 01:33:30] Svag has won the 5Top Players Battle! As a reward, Svag gets 500 gold, 10 XP and 5 points added to each item!
+[11/10/15 02:01:31] Svag 9[16455/20480] has challenged Krakel 9[6660/8200] in combat and won! 1 day, 17:28:48 is removed from Svag's clock. Svag gets 2 XP and Krakel gets 2 XP. Krakel has 42% of their Sanity remaining.
+[11/10/15 03:01:30] Ghost 9[10807/13930] has challenged Krakel 9[5254/7653] in combat and won! 18 days, 23:49:10 is removed from Ghost's clock. Ghost gets 1 XP and Krakel gets 1 XP. Krakel has 40% of their Sanity remaining.
+[11/10/15 04:01:31] Ghost 9[943/13930] has challenged Svag 9[15205/20480] in combat and lost! 8 days, 08:12:08 is added to Ghost's clock. Ghost gets 1 XP and Svag gets 4 XP. Ghost has 99% of their Sanity remaining.
+[11/10/15 05:01:31] Ghost 9[4923/13790] has challenged Svag 9[17476/20480] in combat and lost! 9 days, 02:07:50 is added to Ghost's clock. Ghost gets 1 XP and Svag gets 4 XP. Ghost has 96% of their Sanity remaining.
+[11/10/15 05:09:20] Ghost has won the 5Top Players Battle! As a reward, Ghost gets 500 gold, 10 XP and 5 points added to each item!
+[11/10/15 06:01:31] Svag 9[7039/20480] has challenged Krakel 9[3389/7289] in combat and won! 1 day, 09:44:54 is removed from Svag's clock. Svag gets 1 XP and Krakel gets 2 XP. Krakel has 37% of their Sanity remaining.
+[11/10/15 07:01:31] Svag 9[10061/20480] has challenged Ghost 9[4029/13422] in combat and won! 1 day, 02:12:13 is removed from Svag's clock. Svag gets 4 XP and Ghost gets 2 XP. Ghost has 92% of their Sanity remaining.
+[11/10/15 08:01:31] Svag 9[10239/20480] has challenged Ghost 9[12860/12863] in combat and lost! 0 days, 12:17:28 is added to Svag's clock. Svag gets 1 XP and Ghost gets 1 XP. Svag has 77% of their Sanity remaining.
+[11/10/15 08:54:17] Krakel has won the 5Top Players Battle! As a reward, Krakel gets 500 gold, 10 XP and 5 points added to each item!
+[11/10/15 09:01:30] Krakel 9[383/6762] has challenged Ghost 9[6391/12863] in combat and lost! 0 days, 04:17:57 is added to Krakel's clock. Krakel gets 2 XP and Ghost gets 1 XP. Krakel has 36% of their Sanity remaining.
+[11/10/15 10:01:30] Ghost 9[3108/12863] has challenged Svag 9[1468/19469] in combat and won! 18 days, 16:15:24 is removed from Ghost's clock. Ghost gets 2 XP and Svag gets 1 XP. Svag has 75% of their Sanity remaining.
+[11/10/15 10:17:28] Ghost 8[10920/12863] has been set upon by some Monster 8[10749/21038] and won! 20 days, 01:25:19 is removed from Ghost's clock.
+[11/10/15 11:01:31] Ghost 9[8738/12863] has challenged Svag 9[18739/18963] in combat and lost! 6 days, 09:33:04 is added to Ghost's clock. Ghost gets 2 XP and Svag gets 1 XP. Ghost has 88% of their Sanity remaining.
+[11/10/15 12:01:30] Krakel 9[5263/6579] has challenged Ghost 9[10253/12304] in combat and lost! 0 days, 04:41:10 is added to Krakel's clock. Krakel gets 1 XP and Ghost gets 2 XP. Krakel has 33% of their Sanity remaining.
+[11/10/15 13:01:31] Ghost 9[7122/12304] has challenged Svag 9[13170/18963] in combat and lost! 6 days, 23:11:27 is added to Ghost's clock. Ghost gets 1 XP and Svag gets 3 XP. Ghost has 86% of their Sanity remaining.
+[11/10/15 14:01:30] Svag 9[5911/18963] has challenged Ghost 9[1199/12024] in combat and won! 0 days, 22:51:27 is removed from Svag's clock. Svag gets 2 XP and Ghost gets 1 XP. Ghost has 84% of their Sanity remaining.
+[11/10/15 15:01:31] Svag 9[14444/18963] has challenged Ghost 9[5340/11744] in combat and won! 0 days, 19:02:25 is removed from Svag's clock. Svag gets 3 XP and Ghost gets 1 XP. Ghost has 83% of their Sanity remaining.
+[11/10/15 16:01:31] Krakel 9[4143/6031] has challenged Ghost 9[9612/11605] in combat and lost! 0 days, 05:06:28 is added to Krakel's clock. Krakel gets 2 XP and Ghost gets 2 XP. Krakel has 30% of their Sanity remaining.
+[11/10/15 17:01:31] Ghost 9[10243/11605] has challenged Svag 9[7670/18963] in combat and won! 14 days, 07:32:51 is removed from Ghost's clock. Ghost gets 2 XP and Svag gets 1 XP. Svag has 72% of their Sanity remaining.
+[11/10/15 18:01:31] Ghost 9[7096/11605] has challenged Svag 9[87/18205] in combat and won! 11 days, 20:58:28 is removed from Ghost's clock. Ghost gets 1 XP and Svag gets 1 XP. Svag has 68% of their Sanity remaining.
+[11/10/15 19:01:31] Ghost 9[2162/11605] has challenged Svag 9[9845/17193] in combat and lost! 5 days, 05:07:52 is added to Ghost's clock. Ghost gets 2 XP and Svag gets 1 XP. Ghost has 79% of their Sanity remaining.
+[11/10/15 20:01:31] Krakel 9[3141/5482] has challenged Ghost 9[9306/11045] in combat and lost! 0 days, 05:34:03 is added to Krakel's clock. Krakel gets 1 XP and Ghost gets 3 XP. Krakel has 26% of their Sanity remaining.
+[11/10/15 21:01:31] Ghost 9[3099/11045] has challenged Svag 9[2957/17193] in combat and won! 10 days, 17:17:28 is removed from Ghost's clock. Ghost gets 1 XP and Svag gets 2 XP. Svag has 67% of their Sanity remaining.
+[11/10/15 22:01:30] Svag 9[3168/16940] has challenged Ghost 9[5499/11045] in combat and lost! 0 days, 08:21:59 is added to Svag's clock. Svag gets 2 XP and Ghost gets 4 XP. Svag has 66% of their Sanity remaining.
+[11/10/15 23:01:31] Krakel 9[1632/4751] has challenged Ghost 9[9407/11045] in combat and lost! 0 days, 06:04:07 is added to Krakel's clock. Krakel gets 2 XP and Ghost gets 2 XP. Krakel has 25% of their Sanity remaining.
+[11/11/15 00:01:31] Krakel 9[1125/4569] has challenged Ghost 9[570/11045] in combat and won! 0 days, 11:45:35 is removed from Krakel's clock. Krakel gets 1 XP and Ghost gets 1 XP. Ghost has 75% of their Sanity remaining.
+[11/11/15 01:01:30] Ghost 9[3993/10486] has challenged Krakel 9[1223/4569] in combat and won! 8 days, 20:52:17 is removed from Ghost's clock. Ghost gets 1 XP and Krakel gets 2 XP. Krakel has 21% of their Sanity remaining.
+[01/14/16 21:46:02] Svag [8923/46974] tried to slay a Blue_Dragon [0/0] and won! 0 days, 14:03:59 is removed from Svag's clock. Svag gets 5 XP. Each item gains  points.
+[01/14/16 21:46:56] Svag [35071/46974] tried to slay a Blue_Dragon [0/0] and won! 0 days, 14:03:59 is removed from Svag's clock. Svag gets 7 XP. Each item gains  points.
+[01/14/16 21:50:37] Svag [45509/46974] tried to slay a Blue_Dragon [4891/5000] and won! 0 days, 14:03:59 is removed from Svag's clock. Svag gets 4 XP. Each item gains 2 points.
+[01/14/16 21:53:43] Svag ^C8[7802/46994]^C has attacked a Phoenix ^C8[1727/21000]^C and killed it! 1 day, 03:25:40 is removed from Svag's clock. Svag gets 3 XP.
+[01/14/16 21:56:03] Svag ^C8[13666/46994]^C has attacked a Phoenix ^C8[10348/21000]^C and killed it! 1 day, 03:25:40 is removed from Svag's clock. Svag gets 4 XP.
+[01/14/16 21:57:05] Svag ^C8[23094/46994]^C has attacked a Phoenix ^C8[2729/21000]^C and killed it! 1 day, 03:25:39 is removed from Svag's clock. Svag gets 5 XP.
+[01/14/16 21:59:05] Svag [31025/46994] tried to slay a Blue_Dragon [863/5000] and won! 0 days, 13:01:38 is removed from Svag's clock. Svag gets 4 XP. Each item gains 2 points.
+[01/14/16 22:00:41] Svag [34729/47015] tried to slay a Blue_Dragon [98/5000] and won! 0 days, 12:42:04 is removed from Svag's clock. Svag gets 4 XP. Each item gains 2 points.
+[01/14/16 22:07:53] Svag ^C9[42913/47199]^C has challenged putin.are.rusia ^C9[58/114]^C and won! 2 days, 16:23:03 is removed from Svag's clock. Svag gets 3 XP, putin.are.rusia gets 2 XP. putin.are.rusia has 9% of their Sanity remaining.
+[01/14/16 22:09:26] Svag [20265/47199] has challenged putin.are.rusia [83/114] and won! 2 days, 08:00:44 is removed from Svag's clock. Svag gets 5 XP, putin.are.rusia gets 2 XP. putin.are.rusia has 9% of their Sanity remaining.
+[01/14/16 22:09:58] Svag [15575/47199] has challenged putin.are.rusia [106/114] and won! 2 days, 00:43:46 is removed from Svag's clock. Svag gets 4 XP, putin.are.rusia gets 1 XP. putin.are.rusia has 9% of their Sanity remaining.
+[01/14/16 22:27:05] Svag 9[12764/47199] has challenged Qoob 9[11979/30561] in combat and won! 12 days, 19:30:21 is removed from Svag's clock. Svag gets 4 XP and Qoob gets 2 XP. Qoob has 98% of their Sanity remaining.
+[01/14/16 23:26:51] MoonMoon 9[1535/9026] has challenged Spiritualis 9[29/821] in combat and won! 0 days, 07:51:20 is removed from MoonMoon's clock. MoonMoon gets 2 XP and Spiritualis gets 1 XP. Spiritualis has 29% of their Sanity remaining.
+[01/15/16 09:29:33] MoonMoon 9[3122/9026] has challenged Krakel 9[7225/26314] in combat and lost! 0 days, 05:46:59 is added to MoonMoon's clock. MoonMoon gets 2 XP and Krakel gets 4 XP. MoonMoon has 96% of their Sanity remaining.
+[01/16/16 22:30:26] Svag [25571/87356] tried to slay a Red_Dragon [3349/25000] and won! 1 day, 10:56:36 is removed from Svag's clock. Svag gets 5 XP. Each item gains 4 points.
+[01/17/16 02:54:43] Svag [23771/46234] has attacked a Spider [611/1000] and killed it! 2 days, 20:06:13 is removed from Svag's clock. Svag gets 5 XP.
+[01/17/16 04:31:00] Svag ^C9[42868/46234]^C has challenged diis ^C9[8259/14910]^C in combat and won! 10 days, 05:34:20 is removed from Svag's clock. Svag gets 4 XP and diis gets 2 XP. diis has 97% of their Life remaining.
+[01/17/16 05:02:56] Ghost has won the Top Players Battle! As a reward, Ghost gets 500 gold, 10 XP and 5 points added to each item!
+[01/17/16 05:04:40] Izam has won the b Battle! As a reward, manual fights are reset to 0 for their current level and the time for attack and slay are also reset. Good luck Izam!
+[01/17/16 05:30:59] Svag ^C9[29563/46234]^C has challenged Krakel ^C9[18016/25709]^C in combat and won! 8 days, 17:10:57 is removed from Svag's clock. Svag gets 2 XP and Krakel gets 1 XP. Krakel has 83% of their Life remaining.
+[01/17/16 06:31:00] Qoob ^C9[20781/29949]^C has challenged Svag ^C9[843/46234]^C in combat and won! 0 days, 02:23:03 is removed from Qoob's clock. Qoob gets 4 XP and Svag gets 1 XP. Svag has 93% of their Life remaining.
+[01/17/16 16:23:56] Sathiras [2134/7843] has challenged Svag [26150/43283] in combat and lost! 3 days, 15:47:20 is added to Sathiras's clock. Sathiras gets 2 XP and Svag gets 4 XP. Sathiras has 95% of their Life remaining.
+[01/17/16 20:22:04] MoonMoon stole 4786 gold from Svag!
+[01/17/16 20:49:54] Ghost fell while running from the iRPG patrol !!! This terrible calamity has slowed them 0 days, 06:13:07 from level 79.
+[01/17/16 21:09:41] Krakel [15003/25104] has challenged MoonMoon [6327/8474] in combat and won! 6 days, 05:10:08 is removed from Krakel's clock. Krakel gets 1 XP and MoonMoon gets 2 XP. MoonMoon has 91% of their Life remaining.
+[01/17/16 21:41:35] Krakel has won the Top Players Battle! As a reward, Krakel gets 500 gold, 10 XP and 5 points added to each item!
+[01/17/16 21:50:16] Svag has won the r Battle! As a reward, manual fights are reset to 0 for their current level and the time for attack and slay are also reset. Good luck Svag!
+[01/17/16 21:57:29] MoonMoon lost his glasses !!! This terrible calamity has slowed them 0 days, 05:50:08 from level 71.
+[01/17/16 22:01:15] Qoob has won the Good Battle! Qoob received 500 gold, 10 gems and 20 XP and a chance to find an item!
+[01/18/16 10:08:28] Spiritualis [1/497] has challenged Qoob [14497/29338] in combat and lost! 2 days, 06:15:46 is added to Spiritualis's clock. Spiritualis gets 2 XP and Qoob gets 4 XP. Spiritualis has 19% of their Life remaining.
+[01/18/16 10:39:01] Ghost has won the Top Players Battle! As a reward, Ghost gets 500 gold, 10 XP and 5 points added to each item!
+[01/18/16 10:46:52] Qoob has won the Good Battle! Qoob received 500 gold, 10 gems and 20 XP and a chance to find an item!
+[01/18/16 15:47:59] Izam [11179/17331] has challenged Spiritualis [173/472] in combat and won! 0 days, 09:39:17 is removed from Izam's clock. Izam gets 1 XP and Spiritualis gets 2 XP. Spiritualis has 18% of their Life remaining.
+[01/18/16 16:18:32] Qoob has won the Top Players Battle! As a reward, Qoob gets 500 gold, 10 XP and 5 points added to each item!
+[01/18/16 16:47:58] Sathiras [1026/7283] has challenged Ghost [12579/26267] in combat and lost! 4 days, 01:26:44 is added to Sathiras's clock. Sathiras gets 1 XP and Ghost gets 4 XP. Sathiras has 90% of their Life remaining.
+[01/18/16 17:47:58] diis [336/13717] has challenged MoonMoon [1352/8382] in combat and lost! 0 days, 00:38:23 is added to diis's clock. diis gets 1 XP and MoonMoon gets 1 XP. diis has 88% of their Life remaining.
+[01/18/16 17:51:18] Qoob has won the Champions League! As a reward, 0 days, 04:11:46 is removed from TTL. Qoob gets 15 gems, 40 XP and 2000 gold and Krakel gets 5 gems, 5 XP and 500 gold
+[01/18/16 18:47:59] diis [11413/12375] has challenged Ghost [9757/26267] in combat and won! 0 days, 01:20:13 is removed from diis's clock. diis gets 4 XP and Ghost gets 2 XP. Ghost has 90% of their Life remaining.
+[01/18/16 18:51:17] Svag has won the Death Match! As a reward, 8 days, 06:02:02 is removed from TTL Svag gets 30 gems, 30 XP and 3000 gold and Krakel gets 10 gems, 10 XP and 1000 gold..
+[01/18/16 19:22:56] diis has won the Top Players Battle! As a reward, diis gets 500 gold, 10 XP and 5 points added to each item!
+[01/18/16 19:47:58] Spiritualis [136/447] has challenged putin.are.rusia [22/114] in combat and won! 3 days, 05:35:45 is removed from Spiritualis's clock. Spiritualis gets 2 XP and putin.are.rusia gets 1 XP. putin.are.rusia has 9% of their Life remaining.
+[01/18/16 20:33:25] Svag [41364/43283] has attacked a Spider [990/1000] and killed it! 1 day, 07:19:14 is removed from Svag's clock. Svag gets 5 XP.
+[01/18/16 20:33:28] Svag [29480/76889] tried to slay a Green_Dragon [14225/15000] and won! 0 days, 14:52:38 is removed from Svag's clock. Svag gets 5 XP. Each item gains 3 points.
+[01/18/16 21:32:46] Ghost [20181/24535] has challenged MoonMoon [4623/7460] in combat and won! 0 days, 14:15:01 is removed from Ghost's clock. Ghost gets 3 XP and MoonMoon gets 2 XP. MoonMoon has 78% of their Life remaining.
+[01/18/16 22:58:18] Sathiras [3316/6243] has challenged Krakel [6049/22116] in combat and lost! 4 days, 12:09:53 is added to Sathiras's clock. Sathiras gets 2 XP and Krakel gets 4 XP. Sathiras has 77% of their Life remaining.
+[01/18/16 23:28:51] Krakel has won the Top Players Battle! As a reward, Krakel gets 500 gold, 10 XP and 5 points added to each item!
+[01/18/16 23:52:17] Izam has won the b Battle! As a reward, manual fights are reset to 0 for their current level and the time for attack and slay are also reset. Good luck Izam!
+[01/18/16 23:58:19] Izam [15138/16054] has challenged Svag [5565/49469] in combat and won! 0 days, 12:55:22 is removed from Izam's clock. Izam gets 1 XP and Svag gets 1 XP. Svag has 97% of their Life remaining.
+[01/19/16 00:58:19] Izam [1183/16054] has challenged Ghost [3342/24535] in combat and lost! 0 days, 05:41:09 is added to Izam's clock. Izam gets 2 XP and Ghost gets 2 XP. Izam has 86% of their Life remaining.
+[01/19/16 01:01:37] Ghost has won the Champions League! As a reward, 1 day, 00:27:30 is removed from TTL. Ghost gets 15 gems, 40 XP and 2000 gold and diis gets 5 gems, 5 XP and 500 gold
+[01/19/16 01:58:19] Ghost [11856/24535] has challenged Svag [36654/47984] in combat and lost! 0 days, 04:28:37 is added to Ghost's clock. Ghost gets 1 XP and Svag gets 3 XP. Ghost has 81% of their Life remaining.
+[01/19/16 01:59:00] Izam was caught stealing, however, they still get 5 XP for trying.
+[01/19/16 02:37:04] Svag has won the Top Players Battle! As a reward, Svag gets 500 gold, 10 XP and 5 points added to each item!
+[01/19/16 02:58:19] Izam [8536/14777] has challenged Sathiras [5365/5442] in combat and won! 0 days, 08:36:23 is removed from Izam's clock. Izam gets 1 XP and Sathiras gets 2 XP. Sathiras has 65% of their Life remaining.
+[01/19/16 03:58:19] diis [872/10921] has challenged Qoob [17765/29388] in combat and lost! 0 days, 00:34:12 is added to diis's clock. diis gets 2 XP and Qoob gets 2 XP. diis has 71% of their Life remaining.
+[01/19/16 04:58:19] putin.are.rusia [27/114] has challenged Sathiras [4052/5202] in combat and lost! 0 days, 02:04:51 is added to putin.are.rusia's clock. putin.are.rusia gets 1 XP and Sathiras gets 1 XP. putin.are.rusia has 9% of their Life remaining.
+[01/19/16 05:57:14] Izam stole 1407 gold from Sathiras!
+[01/19/16 05:58:19] Krakel [7779/20637] has challenged Spiritualis [172/447] in combat and won! 3 days, 22:40:42 is removed from Krakel's clock. Krakel gets 2 XP and Spiritualis gets 1 XP. Spiritualis has 14% of their Life remaining.
+[01/19/16 06:26:42] MoonMoon has won the Top Players Battle! As a reward, MoonMoon gets 500 gold, 10 XP and 5 points added to each item!
+[01/19/16 06:58:19] putin.are.rusia [12/114] has challenged Svag [2713/48035] in combat and lost! 0 days, 03:05:24 is added to putin.are.rusia's clock. putin.are.rusia gets 2 XP and Svag gets 2 XP. putin.are.rusia has 9% of their Life remaining.
+[01/19/16 07:24:57] Sathiras has won the Champions League! As a reward, 7 days, 06:38:12 is removed from TTL. Sathiras gets 15 gems, 40 XP and 2000 gold and Spiritualis gets 5 gems, 5 XP and 500 gold
+[01/19/16 07:58:19] diis [8453/9874] has challenged Qoob [19108/29388] in combat and lost! 0 days, 00:37:37 is added to diis's clock. diis gets 2 XP and Qoob gets 4 XP. diis has 63% of their Life remaining.
+[01/19/16 08:58:19] Svag [38531/48035] has challenged Spiritualis [1031/2363] in combat and won! 3 days, 01:49:44 is removed from Svag's clock. Svag gets 2 XP and Spiritualis gets 2 XP. Spiritualis has 93% of their Life remaining.
+[01/19/16 09:58:18] putin.are.rusia [17/114] has challenged Krakel [12567/19119] in combat and lost! 0 days, 03:25:47 is added to putin.are.rusia's clock. putin.are.rusia gets 1 XP and Krakel gets 3 XP. putin.are.rusia has 9% of their Life remaining.
+[01/19/16 11:09:36] Svag [31875/48035] has attacked a Phoenix [5240/21000] and killed it! 1 day, 00:39:16 is removed from Svag's clock. Svag gets 5 XP.
+[01/19/16 11:58:42] Svag [47742/49521] tried to slay a White_Dragon [19194/40000] and won! 0 days, 11:41:25 is removed from Svag's clock. Svag gets 9 XP. Each item gains 5 points.
+[01/19/16 12:08:53] Sathiras [4488/5042] has challenged Svag [34413/49572] in combat and lost! 4 days, 04:51:10 is added to Sathiras's clock. Sathiras gets 2 XP and Svag gets 4 XP. Sathiras has 61% of their Life remaining.
+[01/19/16 12:36:55] Svag, putin.are.rusia, and Sathiras ^C8[39033/57946]^C have hunted down a bunch of Monster ^C8[81280/96630]^C but they beat them badly! 0 days, 06:14:10 is added to their clocks. They all get 2 XP.
+[01/19/16 12:39:26] Ghost has won the Top Players Battle! As a reward, Ghost gets 500 gold, 10 XP and 5 points added to each item!
+[01/19/16 13:08:53] Qoob [19074/29388] has challenged Sathiras [1286/4722] in combat and won! 0 days, 00:48:03 is removed from Qoob's clock. Qoob gets 2 XP and Sathiras gets 1 XP. Sathiras has 56% of their Life remaining.
+[01/19/16 14:04:50] diis was caught stealing, however, they still get 5 XP for trying.
+[01/19/16 14:08:53] Svag [44559/49572] has challenged putin.are.rusia [1/114] in combat and won! 2 days, 11:47:57 is removed from Svag's clock. Svag gets 1 XP and putin.are.rusia gets 2 XP. putin.are.rusia has 9% of their Life remaining.
+[01/19/16 14:20:00] diis stole an upgrade scroll from Qoob worth 413 points from their charm.
+[01/19/16 14:31:10] Svag has ruined the quest. One day will be added to Svag's TTL!
+[01/19/16 15:08:52] Qoob [18542/28992] has challenged Spiritualis [621/2313] in combat and won! 0 days, 00:35:24 is removed from Qoob's clock. Qoob gets 1 XP and Spiritualis gets 2 XP. Spiritualis has 91% of their Life remaining.
+[01/19/16 16:08:53] Ghost [20224/23421] has challenged putin.are.rusia [99/114] in combat and won! 0 days, 04:11:06 is removed from Ghost's clock. Ghost gets 1 XP and putin.are.rusia gets 2 XP. putin.are.rusia has 9% of their Life remaining.
+[01/19/16 16:19:14] Qoob has won the Top Players Battle! As a reward, Qoob gets 500 gold, 10 XP and 5 points added to each item!
+[01/19/16 16:48:42] Spiritualis, Qoob, and Svag ^C8[30537/81160]^C have hunted down a bunch of Monster ^C8[30184/123985]^C and defeated them! 0 days, 00:47:23 is removed from their clocks. They all get 5 XP.
+[01/19/16 17:08:52] Spiritualis [1926/2264] has challenged Krakel [11390/19119] in combat and lost! 2 days, 09:02:08 is added to Spiritualis's clock. Spiritualis gets 1 XP and Krakel gets 3 XP. Spiritualis has 90% of their Life remaining.
+[01/19/16 17:55:05] Ghost got DDoSed !!! This terrible calamity has slowed them 0 days, 01:34:27 from level 79.
+[01/19/16 18:08:52] Sathiras [1060/4322] has challenged Qoob [10369/29040] in combat and lost! 4 days, 06:23:35 is added to Sathiras's clock. Sathiras gets 1 XP and Qoob gets 1 XP. Sathiras has 51% of their Life remaining.
+[01/19/16 18:39:46] Qoob got drunk after his last GODSEND so we that it would be nice to honor him with this CALAMITY !!! This terrible calamity has slowed them 0 days, 00:13:16 from level 74.
+[01/19/16 18:53:33] MoonMoon was caught stealing, however, they still get 5 XP for trying.
+[01/19/16 19:08:53] MoonMoon [1676/6112] has challenged Svag [22418/49721] in combat and lost! 0 days, 07:03:40 is added to MoonMoon's clock. MoonMoon gets 2 XP and Svag gets 3 XP. MoonMoon has 64% of their Life remaining.
+[01/20/16 09:00:34] diis ^C8[815/9685]^C has been set upon by some Monster ^C8[5426/10793]^C and lost! 0 days, 00:37:14 is added to diis's clock.
+[01/20/16 09:48:53] Qoob [15208/29040] has challenged Ghost [18232/23421] in combat and lost! 0 days, 00:22:18 is added to Qoob's clock. Qoob gets 1 XP and Ghost gets 2 XP. Qoob has 92% of their Life remaining.
+[01/20/16 10:20:50] Svag has won the Top Players Battle! As a reward, Svag gets 500 gold, 10 XP and 5 points added to each item!
+[01/20/16 10:27:31] Krakel has won the r Battle! As a reward, manual fights are reset to 0 for their current level and the time for attack and slay are also reset. Good luck Krakel!
+[01/20/16 10:45:23] MoonMoon has won the Evil Battle! MoonMoon gets a chance to steal!
+[01/20/16 10:45:23] MoonMoon stole an upgrade scroll from Ghost worth 338 points from their boots.
+[01/20/16 10:48:53] Svag [9850/49773] has challenged diis [8496/9378] in combat and won! 3 days, 07:30:22 is removed from Svag's clock. Svag gets 4 XP and diis gets 2 XP. diis has 58% of their Life remaining.
+[01/20/16 10:54:17] Izam stole 651 gold from MoonMoon!
+[01/20/16 11:48:54] Sathiras [2201/3921] has challenged MoonMoon [5141/5952] in combat and lost! 4 days, 16:37:57 is added to Sathiras's clock. Sathiras gets 2 XP and MoonMoon gets 4 XP. Sathiras has 46% of their Life remaining.
+[01/20/16 12:48:54] diis [7603/8916] has challenged Krakel [7250/18512] in combat and won! 0 days, 01:30:12 is removed from diis's clock. diis gets 4 XP and Krakel gets 2 XP. Krakel has 59% of their Life remaining.
+[01/20/16 12:56:35] diis has won the Evil Battle! diis gets a chance to steal!
+[01/20/16 12:56:35] diis was caught stealing, however, they still get 5 XP for trying.
+[01/20/16 13:42:04] Ghost was caught stealing, however, they still get 5 XP for trying.
+[01/20/16 13:43:05] Ghost has won the Top Players Battle! As a reward, Ghost gets 500 gold, 10 XP and 5 points added to each item!
+[01/20/16 13:48:54] Spiritualis [2143/2189] has challenged Svag [41239/49773] in combat and lost! 2 days, 15:18:34 is added to Spiritualis's clock. Spiritualis gets 1 XP and Svag gets 1 XP. Spiritualis has 87% of their Life remaining.
+[01/20/16 14:11:15] Svag's boots were shined! Svag's boots gains 10% effectiveness.
+[01/20/16 14:48:54] Qoob [9794/27830] has challenged putin.are.rusia [100/114] in combat and won! 0 days, 00:29:16 is removed from Qoob's clock. Qoob gets 4 XP and putin.are.rusia gets 1 XP. putin.are.rusia has 9% of their Life remaining.
+[01/20/16 14:48:54] Svag [2207/49882] has attacked a Phoenix [12746/21000] and lost! 0 days, 16:44:50 is added to Svag's clock. Svag gets 2 XP. Svag has 92% of their Life remaining.
+[01/20/16 15:27:46] Izam was caught stealing, however, they still get 5 XP for trying.
+[01/20/16 15:48:54] Svag [44184/45789] has challenged putin.are.rusia [111/114] in combat and won! 1 day, 21:35:25 is removed from Svag's clock. Svag gets 2 XP and putin.are.rusia gets 1 XP. putin.are.rusia has 9% of their Life remaining.
+[01/20/16 16:40:01] Qoob has won the Good Battle! Qoob received 500 gold, 10 gems and 20 XP and a chance to find an item!
+[01/20/16 16:43:54] Izam has won the Top Players Battle! As a reward, Izam gets 500 gold, 10 XP and 5 points added to each item!
+[01/20/16 16:48:54] diis [2148/8916] has challenged Sathiras [2480/3201] in combat and lost! 0 days, 00:28:52 is added to diis's clock. diis gets 2 XP and Sathiras gets 2 XP. diis has 54% of their Life remaining.
+[01/20/16 17:07:35] Sathiras, Spiritualis, MoonMoon, Qoob, diis, Svag, putin.are.rusia, and Izam have blessed the realm by completing their quest! 25% of their burden is eliminated and they have a chance to find an ITEM each.
+[01/20/16 17:07:35] MoonMoon ^C8[4657/5952]^C has been set upon by some Trolls ^C8[3848/6613]^C and won! 0 days, 08:33:01 is removed from MoonMoon's clock.
+[01/20/16 17:07:35] diis ^C8[583/8301]^C has been set upon by some Mutants ^C8[1324/8477]^C and lost! 0 days, 00:35:04 is added to diis's clock.
+[01/20/16 17:07:35] Qoob ^C8[4275/27899]^C has been set upon by some Monster ^C8[2669/29566]^C and won! 0 days, 00:23:30 is removed from Qoob's clock.
+[01/20/16 17:07:35] Svag ^C8[40004/45789]^C has been set upon by some Monster ^C8[23279/42398]^C and won! 1 day, 12:27:18 is removed from Svag's clock.
+[01/20/16 17:07:35] Sathiras ^C8[737/3201]^C has been set upon by some Ghosts ^C8[1041/4879]^C and lost! 1 day, 22:27:39 is added to Sathiras's clock.
+[01/20/16 17:07:35] Spiritualis ^C8[427/2200]^C has been set upon by some Spiders ^C8[626/713]^C and lost! 1 day, 23:54:49 is added to Spiritualis's clock.
+[01/20/16 17:07:35] Spiritualis ^C8[1127/2200]^C has been set upon by some Liches ^C8[1313/2249]^C and lost! 1 day, 23:26:04 is added to Spiritualis's clock.
+[01/20/16 17:07:35] MoonMoon ^C8[3760/5952]^C has been set upon by some Trolls ^C8[6813/6842]^C and lost! 0 days, 04:13:56 is added to MoonMoon's clock.
+[01/20/16 17:48:54] Izam [586/13903] has challenged MoonMoon [5071/5952] in combat and lost! 0 days, 03:39:28 is added to Izam's clock. Izam gets 1 XP and MoonMoon gets 3 XP. Izam has 72% of their Life remaining.
+[01/20/16 18:48:54] Svag [24347/45789] has challenged Ghost [12840/22617] in combat and won! 1 day, 13:46:29 is removed from Svag's clock. Svag gets 2 XP and Ghost gets 2 XP. Ghost has 76% of their Life remaining.
+[01/20/16 18:48:54] Svag has dealt Ghost a Critical Strike! 0 days, 03:12:47 is added to Ghost's clock.
+[01/20/16 18:52:13] Qoob has won the Power War! As a reward, 0 days, 00:54:18 is removed from TTL, gets 10 gems, 20 XP, their items gets 10 points stronger and Krakel gets 5 gems and 10 XP.
+[01/20/16 19:17:38] MoonMoon had the gem in their ring reset! MoonMoon's ring gains 10% effectiveness.
+[01/20/16 19:48:54] Krakel [1451/16388] has challenged putin.are.rusia [67/114] in combat and won! 3 days, 10:22:12 is removed from Krakel's clock. Krakel gets 3 XP and putin.are.rusia gets 2 XP. putin.are.rusia has 9% of their Life remaining.
+[01/20/16 20:48:54] Izam [3960/12256] has challenged putin.are.rusia [103/114] in combat and won! 0 days, 05:13:50 is removed from Izam's clock. Izam gets 4 XP and putin.are.rusia gets 1 XP. putin.are.rusia has 9% of their Life remaining.
+[01/20/16 20:52:16] Svag has won the Death Match! As a reward, 0 days, 17:29:17 is removed from TTL Svag gets 30 gems, 30 XP and 3000 gold and MoonMoon gets 10 gems, 10 XP and 1000 gold..
+[01/20/16 20:52:19] Svag has won the Champions League! As a reward, 1 day, 18:26:54 is removed from TTL. Svag gets 15 gems, 40 XP and 2000 gold and Izam gets 5 gems, 5 XP and 500 gold
+[01/20/16 21:48:54] Svag [27912/45789] has challenged Qoob [18541/28085] in combat and won! 0 days, 17:39:31 is removed from Svag's clock. Svag gets 1 XP and Qoob gets 2 XP. Qoob has 90% of their Life remaining.
+[01/20/16 22:48:53] Izam [3777/10427] has challenged Svag [32275/45789] in combat and lost! 0 days, 03:51:02 is added to Izam's clock. Izam gets 2 XP and Svag gets 3 XP. Izam has 56% of their Life remaining.
+[01/20/16 23:48:54] Izam [2430/10244] has challenged Svag [13044/45789] in combat and lost! 0 days, 04:16:27 is added to Izam's clock. Izam gets 1 XP and Svag gets 1 XP. Izam has 54% of their Life remaining.
+[01/21/16 00:02:31] diis fell while running from the iRPG patrol !!! This terrible calamity has slowed them 0 days, 00:35:02 from level 79.
+[01/21/16 00:39:56] Sathiras found an exploit in the IRPG code !!! This moves them 2 days, 00:47:02 closer towards level 62.
+[01/21/16 00:48:54] Ghost [9571/21758] has challenged Krakel [10503/13353] in combat and lost! 0 days, 01:27:38 is added to Ghost's clock. Ghost gets 2 XP and Krakel gets 1 XP. Ghost has 75% of their Life remaining.
+[01/21/16 01:15:33] Krakel, Svag, and Sathiras [50177/86724] have hunted down a bunch of Monster [14303/139818] and defeated them! 0 days, 15:24:00 is removed from their clocks. They all get 5 XP.
+[01/21/16 01:48:54] Krakel [8114/13353] has challenged Qoob [21645/27475] in combat and lost! 2 days, 05:35:04 is added to Krakel's clock. Krakel gets 2 XP and Qoob gets 3 XP. Krakel has 43% of their Life remaining.
+[01/21/16 02:48:54] Qoob [18527/27475] has challenged putin.are.rusia [111/114] in combat and won! 0 days, 00:09:45 is removed from Qoob's clock. Qoob gets 2 XP and putin.are.rusia gets 1 XP. putin.are.rusia has 9% of their Life remaining.
+[01/21/16 02:48:54] Svag [19705/45789] has attacked a Phoenix [12419/21000] and killed it! 0 days, 03:00:08 is removed from Svag's clock. Svag gets 5 XP.
+[01/21/16 03:18:04] Spiritualis stood under a tree when an apple fell into his mouth !!! This moves them 2 days, 09:26:55 closer towards level 56.
+[01/21/16 03:18:07] Ghost has won the Champions League! As a reward, 0 days, 04:02:36 is removed from TTL. Ghost gets 15 gems, 40 XP and 2000 gold and Krakel gets 5 gems, 5 XP and 500 gold
+[01/21/16 03:21:27] Sathiras and Qoob have prayed so 12% of their time is removed from their clocks.
+[01/21/16 03:28:05] The Hand of God carried diis 0 days, 03:46:18 toward level 79.
+[01/21/16 03:48:54] diis [1387/5259] has challenged Ghost [3678/21472] in combat and lost! 0 days, 00:14:00 is added to diis's clock. diis gets 2 XP and Ghost gets 3 XP. diis has 30% of their Life remaining.
+[01/21/16 04:48:54] Qoob [757/27475] has challenged putin.are.rusia [10/114] in combat and won! 0 days, 00:07:27 is removed from Qoob's clock. Qoob gets 1 XP and putin.are.rusia gets 1 XP. putin.are.rusia has 9% of their Life remaining.
+[01/21/16 05:47:46] MoonMoon was caught stealing, however, they still get 5 XP for trying.
+[01/21/16 05:48:53] Krakel [9514/11532] has challenged Sathiras [3058/3201] in combat and won! 3 days, 16:24:52 is removed from Krakel's clock. Krakel gets 3 XP and Sathiras gets 1 XP. Sathiras has 39% of their Life remaining.
+[01/21/16 06:48:54] Izam [8543/8964] has challenged Sathiras [2993/3121] in combat and won! 0 days, 06:28:10 is removed from Izam's clock. Izam gets 2 XP and Sathiras gets 2 XP. Sathiras has 38% of their Life remaining.
+[01/21/16 06:52:28] Qoob's amulet was blessed by a passing cleric! Qoob's amulet gains 10% effectiveness.
+[01/21/16 07:03:57] Qoob found a machine gun and kept the iRPG coders hostage !!! This moves them 0 days, 00:05:29 closer towards level 74.
+[01/21/16 07:48:53] Svag [6360/45965] has challenged Krakel [9687/11532] in combat and lost! 0 days, 05:43:28 is added to Svag's clock. Svag gets 2 XP and Krakel gets 3 XP. Svag has 89% of their Life remaining.
+[01/21/16 08:48:54] Sathiras [334/3041] has challenged Ghost [6794/21472] in combat and lost! 3 days, 16:13:57 is added to Sathiras's clock. Sathiras gets 1 XP and Ghost gets 4 XP. Sathiras has 34% of their Life remaining.
+[01/21/16 08:55:46] Krakel has won the Death Match! As a reward, 9 days, 04:26:50 is removed from TTL Krakel gets 30 gems, 30 XP and 3000 gold and MoonMoon gets 10 gems, 10 XP and 1000 gold..
+[01/21/16 09:48:54] MoonMoon [1650/3586] has challenged Krakel [4660/11532] in combat and lost! 0 days, 05:38:18 is added to MoonMoon's clock. MoonMoon gets 1 XP and Krakel gets 1 XP. MoonMoon has 35% of their Life remaining.
+[01/21/16 10:21:33] Svag has won the Top Players Battle! As a reward, Svag gets 500 gold, 10 XP and 5 points added to each item!
+[01/21/16 10:48:53] Svag [40160/44512] has challenged putin.are.rusia [99/114] in combat and won! 0 days, 07:07:11 is removed from Svag's clock. Svag gets 3 XP and putin.are.rusia gets 1 XP. putin.are.rusia has 9% of their Life remaining.
+[01/21/16 11:30:42] Ghost [2719/21472] has challenged MoonMoon [1088/3392] in combat and won! 11 days, 18:15:44 is removed from Ghost's clock. Ghost gets 4 XP and MoonMoon gets 2 XP. MoonMoon has 33% of their Life remaining.
+[01/21/16 11:30:42] Ghost has dealt MoonMoon a Critical Strike! 0 days, 02:50:41 is added to MoonMoon's clock.
+[01/21/16 11:45:38] Ghost ^C8[341/21472]^C has been set upon by some Cyclops ^C8[6528/7670]^C and lost! 5 days, 17:47:08 is added to Ghost's clock.
+[01/21/16 11:48:53] Ghost [654/21472] has challenged putin.are.rusia [106/114] in combat and won! 8 days, 05:01:34 is removed from Ghost's clock. Ghost gets 3 XP and putin.are.rusia gets 2 XP. putin.are.rusia has 9% of their Life remaining.
+[01/21/16 11:57:57] Ghost stole 5462 gold from Svag!
+[01/21/16 12:48:54] Krakel [4851/11532] has challenged MoonMoon [268/3198] in combat and won! 1 day, 23:41:48 is removed from Krakel's clock. Krakel gets 3 XP and MoonMoon gets 1 XP. MoonMoon has 32% of their Life remaining.
+[01/21/16 12:55:51] diis was caught stealing, however, they still get 5 XP for trying.
+[01/21/16 13:13:43] diis has won the p Battle! As a reward, manual fights are reset to 0 for their current level and the time for attack and slay are also reset. Good luck diis!
+[01/21/16 13:44:58] Krakel has won the Top Players Battle! As a reward, Krakel gets 500 gold, 10 XP and 5 points added to each item!
+[01/21/16 13:48:53] Svag [16370/44512] has challenged Ghost [15005/21472] in combat and won! 0 days, 08:28:58 is removed from Svag's clock. Svag gets 3 XP and Ghost gets 1 XP. Ghost has 73% of their Life remaining.
+[01/21/16 14:48:54] Spiritualis [80/1567] has challenged Sathiras [1246/2001] in combat and lost! 1 day, 17:21:46 is added to Spiritualis's clock. Spiritualis gets 2 XP and Sathiras gets 4 XP. Spiritualis has 61% of their Life remaining.
+[01/21/16 14:48:54] Svag [20164/44512] has attacked a Phoenix [6568/21000] and killed it! 0 days, 01:45:29 is removed from Svag's clock. Svag gets 4 XP.
+[01/21/16 15:48:54] diis [2837/3867] has challenged putin.are.rusia [49/114] in combat and won! 0 days, 00:18:22 is removed from diis's clock. diis gets 1 XP and putin.are.rusia gets 2 XP. putin.are.rusia has 9% of their Life remaining.
+[01/21/16 16:31:42] Ghost, putin.are.rusia, and Svag [27149/78914] have hunted down a bunch of Monster [41821/118547] but they beat them badly! 0 days, 05:36:45 is added to their clocks. They all get 2 XP.
+[01/21/16 16:48:53] Krakel [2361/11552] has challenged MoonMoon [2844/2907] in combat and lost! 0 days, 23:17:14 is added to Krakel's clock. Krakel gets 2 XP and MoonMoon gets 4 XP. Krakel has 36% of their Life remaining.
+[01/21/16 17:02:57] Ghost has won the Top Players Battle! As a reward, Ghost gets 500 gold, 10 XP and 5 points added to each item!
+[01/21/16 17:04:47] Izam has won the Evil Battle! Izam gets a chance to steal!
+[01/21/16 17:04:47] Izam was caught stealing, however, they still get 5 XP for trying.
+[01/21/16 17:48:54] putin.are.rusia [93/114] has challenged Krakel [2378/10944] in combat and lost! 0 days, 03:42:15 is added to putin.are.rusia's clock. putin.are.rusia gets 1 XP and Krakel gets 4 XP. putin.are.rusia has 9% of their Life remaining.
+[01/21/16 17:51:45] Spiritualis took his vitamins !!! This moves them 2 days, 07:50:24 closer towards level 56.
+[01/21/16 18:45:42] Qoob has won the Good Battle! Qoob received 500 gold, 10 gems and 20 XP and a chance to find an item!
+[01/21/16 18:48:54] Sathiras [756/1680] has challenged diis [2207/3867] in combat and lost! 4 days, 01:56:17 is added to Sathiras's clock. Sathiras gets 2 XP and diis gets 4 XP. Sathiras has 17% of their Life remaining.
+[01/21/16 18:54:49] Spiritualis found some weed and smoked it !!! This terrible calamity has slowed them 1 day, 21:13:49 from level 56.
+[01/21/16 19:48:53] Qoob [17413/28003] has challenged Ghost [16233/20937] in combat and won! 0 days, 00:08:27 is removed from Qoob's clock. Qoob gets 1 XP and Ghost gets 1 XP. Ghost has 70% of their Life remaining.
+[01/21/16 20:48:54] putin.are.rusia [22/114] has challenged Spiritualis [475/1542] in combat and lost! 0 days, 02:36:59 is added to putin.are.rusia's clock. putin.are.rusia gets 2 XP and Spiritualis gets 2 XP. putin.are.rusia has 9% of their Life remaining.
+[01/21/16 21:48:03] Qoob burned a hole through their leggings while ironing! Qoob's leggings loses 10% effectiveness.
+[01/21/16 21:48:53] Sathiras [1149/1360] has challenged putin.are.rusia [92/114] in combat and won! 5 days, 08:28:38 is removed from Sathiras's clock. Sathiras gets 2 XP and putin.are.rusia gets 1 XP. putin.are.rusia has 9% of their Life remaining.
+[01/21/16 22:48:53] putin.are.rusia [74/114] has challenged diis [1118/3867] in combat and lost! 0 days, 04:23:58 is added to putin.are.rusia's clock. putin.are.rusia gets 1 XP and diis gets 4 XP. putin.are.rusia has 9% of their Life remaining.
+[01/21/16 23:41:49] Sathiras ^C8[26/1360]^C has been set upon by some Goblins ^C8[272/1486]^C and lost! 3 days, 05:22:58 is added to Sathiras's clock.
+[01/21/16 23:48:54] putin.are.rusia [21/114] has challenged Spiritualis [424/1542] in combat and lost! 0 days, 03:06:27 is added to putin.are.rusia's clock. putin.are.rusia gets 1 XP and Spiritualis gets 4 XP. putin.are.rusia has 9% of their Life remaining.
+[01/22/16 00:48:54] Sathiras [806/1360] has challenged Spiritualis [1506/1542] in combat and lost! 2 days, 17:36:12 is added to Sathiras's clock. Sathiras gets 1 XP and Spiritualis gets 3 XP. Sathiras has 16% of their Life remaining.
+[01/22/16 01:48:53] putin.are.rusia [87/114] has challenged Izam [2855/8049] in combat and lost! 0 days, 04:45:01 is added to putin.are.rusia's clock. putin.are.rusia gets 1 XP and Izam gets 3 XP. putin.are.rusia has 9% of their Life remaining.
+[01/22/16 02:48:54] Spiritualis [1008/1542] has challenged Ghost [14772/20076] in combat and lost! 2 days, 12:15:25 is added to Spiritualis's clock. Spiritualis gets 1 XP and Ghost gets 4 XP. Spiritualis has 58% of their Life remaining.
+[01/22/16 02:48:54] Svag [25022/44512] has attacked a Phoenix [74/21000] and killed it! 0 days, 01:21:03 is removed from Svag's clock. Svag gets 3 XP.
+[01/22/16 03:48:06] Spiritualis, Ghost, and Svag [9712/79924] have hunted down a bunch of Monster [100941/122649] but they beat them badly! 0 days, 04:56:10 is added to their clocks. They all get 2 XP.
+[01/22/16 03:48:53] MoonMoon [2062/2713] has challenged putin.are.rusia [104/114] in combat and won! 0 days, 07:45:59 is removed from MoonMoon's clock. MoonMoon gets 3 XP and putin.are.rusia gets 2 XP. putin.are.rusia has 9% of their Life remaining.
+[01/22/16 04:48:54] Izam [5997/8049] has challenged putin.are.rusia [87/114] in combat and won! 0 days, 04:45:57 is removed from Izam's clock. Izam gets 2 XP and putin.are.rusia gets 2 XP. putin.are.rusia has 9% of their Life remaining.
+[01/22/16 05:48:53] Spiritualis [242/1466] has challenged Qoob [5081/27754] in combat and lost! 2 days, 13:17:54 is added to Spiritualis's clock. Spiritualis gets 2 XP and Qoob gets 1 XP. Spiritualis has 56% of their Life remaining.
+[01/22/16 06:48:54] Sathiras [634/1280] has challenged MoonMoon [1105/2713] in combat and lost! 4 days, 04:16:46 is added to Sathiras's clock. Sathiras gets 2 XP and MoonMoon gets 4 XP. Sathiras has 13% of their Life remaining.
+[01/22/16 07:48:53] Spiritualis [115/1416] has challenged Qoob [11707/27754] in combat and lost! 2 days, 19:25:41 is added to Spiritualis's clock. Spiritualis gets 1 XP and Qoob gets 3 XP. Spiritualis has 52% of their Life remaining.
+[01/22/16 08:48:54] Svag [12232/44512] has challenged Ghost [15238/20076] in combat and lost! 0 days, 02:42:23 is added to Svag's clock. Svag gets 2 XP and Ghost gets 4 XP. Svag has 86% of their Life remaining.
+[01/22/16 08:49:36] Sathiras has won the Top Players Battle! As a reward, Sathiras gets 500 gold, 10 XP and 5 points added to each item!
+[01/22/16 08:51:24] Krakel, diis, and Spiritualis [19147/47099] have hunted down a bunch of Monster [40823/76656] but they beat them badly! 0 days, 00:24:35 is added to their clocks. They all get 2 XP.
+[01/22/16 09:22:13] Ghost's boots were shined! Ghost's boots gains 10% effectiveness.
+[01/22/16 09:48:54] Qoob [2328/27754] has challenged MoonMoon [2119/2519] in combat and won! 0 days, 00:06:07 is removed from Qoob's clock. Qoob gets 4 XP and MoonMoon gets 1 XP. MoonMoon has 23% of their Life remaining.
+[01/22/16 10:48:53] MoonMoon [1291/2229] has challenged Qoob [27475/27754] in combat and lost! 0 days, 05:11:51 is added to MoonMoon's clock. MoonMoon gets 1 XP and Qoob gets 2 XP. MoonMoon has 21% of their Life remaining.
+[01/22/16 10:51:38] Svag has won the r Battle! As a reward, manual fights are reset to 0 for their current level and the time for attack and slay are also reset. Good luck Svag!
+[01/22/16 11:48:54] Svag [4561/43012] has challenged diis [2447/3867] in combat and won! 0 days, 04:37:08 is removed from Svag's clock. Svag gets 3 XP and diis gets 2 XP. diis has 21% of their Life remaining.
+[01/22/16 12:13:08] Svag [22122/43012] has attacked a Roach [405/500] and killed it! 0 days, 00:57:54 is removed from Svag's clock. Svag gets 4 XP.
+[01/22/16 12:13:17] Krakel [6179/10944] has come upon Ghost [4476/20137] and taken them in combat! 2 days, 00:44:53 is removed from Krakel's clock. Krakel gets 3 XP and Ghost gets 2 XP. Ghost has 66% of their Life remaining.
