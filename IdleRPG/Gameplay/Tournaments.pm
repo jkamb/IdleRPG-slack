@@ -1,11 +1,17 @@
 package Tournaments;
 
-#use IdleRPG::Constants ':locations';
-#use IdleRPG::Constants ':classes';
-#use IdleRPG::Options;
-#use IdleRPG::Simulation;
-#use IdleRPG::RNG;
-#use IdleRPG::Gameplay::Equipment;
+use constant {
+    # Locations
+    TOWN   => 0,
+    WORK   => 1,
+    FOREST => 2,
+
+    # Classes/Abilities
+    BARBARIAN => 'b',
+    PALADIN   => 'p',
+    ROGUE     => 'r',
+    WIZARD    => 'w',
+};
 
 our @tournament;
 our $tournamenttime = time() + 5400;

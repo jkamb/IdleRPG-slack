@@ -1,9 +1,17 @@
 package World;
 
-#use IdleRPG::IRC;
-#use IdleRPG::Simulation;
-#use IdleRPG::Constants ':locations';
-#use IdleRPG::Constants ':classes';
+use constant {
+    # Locations
+    TOWN   => 0,
+    WORK   => 1,
+    FOREST => 2,
+
+    # Classes/Abilities
+    BARBARIAN => 'b',
+    PALADIN   => 'p',
+    ROGUE     => 'r',
+    WIZARD    => 'w',
+};
 
 sub change_location {
     my $nick = shift;

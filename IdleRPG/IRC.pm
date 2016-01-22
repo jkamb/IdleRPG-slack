@@ -2,13 +2,19 @@ package IRC;
 
 #use strict; Barewords
 use warnings;
-#use IO::Socket;
-#use IO::Select;
-#use IdleRPG::Bot;
-#use IdleRPG::Constants ':locations';
-#use IdleRPG::Constants ':classes';
-#use IdleRPG::Options;
-#use IdleRPG::Gameplay::Level;
+
+use constant {
+    # Locations
+    TOWN   => 0,
+    WORK   => 1,
+    FOREST => 2,
+
+    # Classes/Abilities
+    BARBARIAN => 'b',
+    PALADIN   => 'p',
+    ROGUE     => 'r',
+    WIZARD    => 'w',
+};
 
 my %options = (
     quest => {
