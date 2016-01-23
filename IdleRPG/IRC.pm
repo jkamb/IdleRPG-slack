@@ -184,15 +184,13 @@ sub parse {
         }
     }
     elsif ($arg[1] eq 'quit') {
-        if ($usernick eq $primnick) { IRC::sts("NICK $primnick",1); }
-            Level::penalize($username,"quit");
+        Level::penalize($username,"quit");
         delete($onchan{$usernick});
     }
     elsif ($arg[1] eq 'nick') {
         if ($usernick eq $Options::opts{botnick}) {
             $Options::opts{botnick} = substr($arg[2],1);
         }
-        elsif ($usernick eq $primnick) { IRC::sts("NICK $primnick",1); }
         else {
             Level::penalize($username,"nick",$arg[2]);
             $onchan{substr($arg[2],1)} = delete($onchan{$usernick});
@@ -782,7 +780,7 @@ sub parse {
                     }
                 }
                 elsif ($arg[5] !~ /\D/) {
-                    buy_item("$username", "$arg[4]", "$arg[5]");
+                    Store::buy_item("$username", "$arg[4]", "$arg[5]");
                 }
                 else {
                     IRC::privmsg("You did not type a valid level.", $usernick);
