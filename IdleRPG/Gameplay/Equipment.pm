@@ -239,7 +239,7 @@ sub find_item {
         }
     }
     if ($ItemVal < 0) {
-        IRC::chanmsg("$u found an item upgrade scroll, but it was useless, so it seems luck is against $u !!!");
+        IRC::chanmsg("$u found an item upgrade scroll, but it was useless, so it seems luck is against $u!");
     }
 }
 
@@ -249,7 +249,7 @@ sub exchange_item {
     my $level = shift;
     my $ulevel = $level;
     my $tag = $level;
-    IRC::chanmsg("$u found a level $level $type! Current $type is level ".$Simulation::rps{$u}{item}{$type}.", so it seems luck is with $u !!!");
+    IRC::chanmsg("$u found a level $level $type! Current $type is level ".$Simulation::rps{$u}{item}{$type}.", so it seems luck is with $u!");
     $Simulation::rps{$u}{item}{$type} = $level;
 }
 

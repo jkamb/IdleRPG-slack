@@ -209,7 +209,7 @@ sub calamity {
         close(Q) or do {
             return IRC::chanmsg("ERROR: Failed to close $Options::opts{eventsfile}: $!");
         };
-        IRC::chanmsg(Simulation::clog("$player $actioned !!! This terrible calamity has slowed them ".Simulation::duration($time)." from level ".($Simulation::rps{$player}{level}+1)."."));
+        IRC::chanmsg(Simulation::clog("$player $actioned. This terrible calamity has slowed them ".Simulation::duration($time)." from level ".($Simulation::rps{$player}{level}+1)."."));
         $Simulation::rps{$player}{next} += $time;
         IRC::chanmsg("$player reaches next level in ".Simulation::duration($Simulation::rps{$player}{next}).".");
     }
@@ -273,7 +273,7 @@ sub godsend {
         close(Q) or do {
             return IRC::chanmsg("ERROR: Failed to close $Options::opts{eventsfile}: $!");
         };
-        IRC::chanmsg(Simulation::clog("$player $actioned !!! This moves them ".Simulation::duration($time)." closer towards level ".($Simulation::rps{$player}{level}+1)."."));
+        IRC::chanmsg(Simulation::clog("$player $actioned. This moves them ".Simulation::duration($time)." closer towards level ".($Simulation::rps{$player}{level}+1)."."));
         $Simulation::rps{$player}{next} -= $time;
         IRC::chanmsg("$player reaches next level in ".Simulation::duration($Simulation::rps{$player}{next}).".");
     }
@@ -560,7 +560,7 @@ sub lottery {
             ($Simulation::rps{$_}{lotto31} == $nr1 && $Simulation::rps{$_}{lotto32} == $nr2 && $Simulation::rps{$_}{lotto33} == $nr3)
         ) } keys(%Simulation::rps);
     if (@winners > 0) {
-        IRC::chanmsg("The Lottery winner(s) are: @winners !!!");
+        IRC::chanmsg("The Lottery winner(s) are: @winners!");
     }
     else {
         IRC::chanmsg("The are no Lottery winners.");
@@ -580,7 +580,7 @@ sub lottery {
             ($Simulation::rps{$_}{lotto31} + $Simulation::rps{$_}{lotto32} + $Simulation::rps{$_}{lotto33} == $nrsum)
         ) } keys(%Simulation::rps);
     if (@winners_sum > 0) {
-        IRC::chanmsg("The Lotto Sum winner(s) are: @winners_sum !!!");
+        IRC::chanmsg("The Lotto Sum winner(s) are: @winners_sum!");
     }
     else {
         IRC::chanmsg("The are no Lotto Sum winners.");
