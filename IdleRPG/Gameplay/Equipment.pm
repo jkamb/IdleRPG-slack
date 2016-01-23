@@ -230,11 +230,11 @@ sub find_item {
                 }
                 $ThisItemVal  = int(($level/2) + $tupgrade + ($Simulation::rps{$u}{item}{$type}*1.05) + 1);
                 exchange_item($u,$type,$ThisItemVal);
-                $HoldThis = "";
+                $HoldThis = 0;
             }
             elsif ($CountThis > 3) {
                 $ItemVal = -1;
-                $HoldThis = "";
+                $HoldThis = 0;
             }
         }
     }
