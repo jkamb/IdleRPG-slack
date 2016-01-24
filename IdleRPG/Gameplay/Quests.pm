@@ -72,7 +72,7 @@ sub questpencheck {
     #If someone gets a penalty during a tourny, then the tourny is restarted.
     for my $tourney (@Tournaments::tournament) {
        if ($tourney eq $k) {
-          IRC::chanmsg("$k has left so the ^C5Top Players Battle^C will be restarted in 1 minute.");
+          IRC::chanmsg("$k has left so the Top Players Battle will be restarted in 1 minute.");
           undef @Tournaments::tournament;
           $Tournaments::tournamenttime = time() + 60;
           Level::penalize($k,"tourney");
@@ -80,7 +80,7 @@ sub questpencheck {
     }
     for my $DMtourney (@Tournaments::deathmatch) {
        if ($DMtourney eq $k) {
-          IRC::chanmsg("$k has left so the ^C6Death Match^C will be restarted in 1 minute.");
+          IRC::chanmsg("$k has left so the Death Match will be restarted in 1 minute.");
           undef @Tournaments::deathmatch;
           $Tournaments::deathmatchtime = time() + 60;
           Level::penalize($k,"DMtourney");
@@ -88,7 +88,7 @@ sub questpencheck {
     }
     for my $MWtourney (@Tournaments::megawar) {
        if ($MWtourney eq $k) {
-          IRC::chanmsg("$k has left so the ^C7Champions League^C will be restarted in 1 minute.");
+          IRC::chanmsg("$k has left so the Champions League will be restarted in 1 minute.");
           undef @Tournaments::megawar;
           $Tournaments::megawartime = time() + 60;
           Level::penalize($k,"MWtourney");
@@ -96,7 +96,7 @@ sub questpencheck {
     }
     for my $PWtourney (@Tournaments::powerwar) {
        if ($PWtourney eq $k) {
-          IRC::chanmsg("$k has left so the ^C12Power War^C will be restarted in 1 minute.");
+          IRC::chanmsg("$k has left so the Power War will be restarted in 1 minute.");
           undef @Tournaments::powerwar;
           $Tournaments::powerwartime = time() + 60;
           Level::penalize($k,"PWtourney");
@@ -104,7 +104,7 @@ sub questpencheck {
      }
      for my $AWtourney (@Tournaments::abilitywar) {
        if ($AWtourney eq $k) {
-          IRC::chanmsg("$k has left so the ^C3Ability Battle^C will be restarted in 1 minute.");
+          IRC::chanmsg("$k has left so the Ability Battle will be restarted in 1 minute.");
           undef @Tournaments::abilitywar;
           $Tournaments::abilitywartime = time() + 60;
           Level::penalize($k,"AWtourney");
@@ -112,7 +112,7 @@ sub questpencheck {
      }
      for my $LWtourney (@Tournaments::locationwar) {
        if ($LWtourney eq $k) {
-          IRC::chanmsg("$k has left so the ^C13Location Battle^C will be restarted in 1 minute.");
+          IRC::chanmsg("$k has left so the Location Battle will be restarted in 1 minute.");
           undef @Tournaments::locationwar;
           $Tournaments::locationwartime = time() + 60;
           Level::penalize($k,"LWtourney");
@@ -120,7 +120,7 @@ sub questpencheck {
      }
      for my $ALWtourney (@Tournaments::alignwar) {
        if ($ALWtourney eq $k) {
-          IRC::chanmsg("$k has left so the ^C14Alignment Battle^C will be restarted in 1 minute.");
+          IRC::chanmsg("$k has left so the Alignment Battle will be restarted in 1 minute.");
           undef @Tournaments::alignwar;
           $Tournaments::alignwartime = time() + 60;
           Level::penalize($k,"ALWtourney");
