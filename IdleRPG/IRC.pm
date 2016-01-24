@@ -1219,7 +1219,7 @@ sub parse {
                 else {
                     for my $ALWtourney (@Tournaments::alignwar) {
                       if ($ALWtourney eq $username) {
-                         IRC::chanmsg("$username changed alignment during the ^C14Alignment Battle^C! Their TTL is doubled.");
+                         IRC::chanmsg("$username changed alignment during the Alignment Battle! Their TTL is doubled.");
                          my $ThisTTL = $Simulation::rps{$username}{next} * 2;
                          $Simulation::rps{$username}{next} = $ThisTTL;
                        }

@@ -19,7 +19,7 @@ sub change_location {
     my $location = shift;
     for my $LWtourney (@Tournaments::locationwar) {
        if ($LWtourney eq $user) {
-          IRC::chanmsg("$user changed location during the ^C13Location Battle^C! Their TTL is doubled.");
+          IRC::chanmsg("$user changed location during the Location Battle! Their TTL is doubled.");
           my $ThisTTL = $Simulation::rps{$user}{next} * 2;
           $Simulation::rps{$user}{next} = $ThisTTL;
         }

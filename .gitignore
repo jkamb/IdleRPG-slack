@@ -1,0 +1,6 @@
+*.swp
+*.out
+*.pid
+*.err
+*.db
+Logs/*.txt

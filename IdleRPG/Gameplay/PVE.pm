@@ -298,14 +298,14 @@ sub monst_attack_player {
     if ($myroll >= $monroll) {
         $gain = int($gain*$Simulation::rps{$u}{next}/100);
         $Simulation::rps{$u}{next} -= $gain;
-        IRC::chanmsg(Simulation::clog("$u ^C8[$myroll/$mysum]^C has been set upon by some $monname ".
-             "^C8[$monroll/$monsum]^C and won! ".Simulation::duration($gain)." is removed from $u\'s clock."));
+        IRC::chanmsg(Simulation::clog("$u [$myroll/$mysum] has been set upon by some $monname ".
+             "[$monroll/$monsum] and won! ".Simulation::duration($gain)." is removed from $u\'s clock."));
     }
     else {
         $loss = int($loss*$Simulation::rps{$u}{next}/100);
         $Simulation::rps{$u}{next} += $loss;
-        IRC::chanmsg(Simulation::clog("$u ^C8[$myroll/$mysum]^C has been set upon by some $monname ".
-            "^C8[$monroll/$monsum]^C and lost! ".Simulation::duration($loss)." is added to $u\'s clock."));
+        IRC::chanmsg(Simulation::clog("$u [$myroll/$mysum] has been set upon by some $monname ".
+            "[$monroll/$monsum] and lost! ".Simulation::duration($loss)." is added to $u\'s clock."));
     }
     IRC::chanmsg("$u reaches next level in ".Simulation::duration($Simulation::rps{$u}{next}).".");
 }
